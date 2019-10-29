@@ -22,7 +22,41 @@
     var_dump($array);
 
 
-?>  
+?>
+
+<?php
+    $array2 = array(
+        "foo" => "bar",
+        "bar" => "foo",
+        100   => -100,
+        -100  => 100,
+    );
+
+    var_dump($array2);
+
+?>
+
+<?php
+    $array3 = array("foo", "bar", "hello", "world");
+    var_dump($array3);
+?>
+
+
+<?php
+    $array5 = array(
+        "foo" => "bar",
+         42    => 24,
+         "multi" => array(
+         "dimensional" => array(
+             "array" => "foo"
+            )
+        )
+    );
+
+    var_dump($array5["foo"]);
+    var_dump($array5[42]);
+    var_dump($array5["multi"]["dimensional"]["array"]);
+?>
 
 
 <!-- https://www.php.net/manual/pt_BR/language.types.array.php -->
