@@ -142,15 +142,15 @@
 ?>
 
 <?php
-    $i = 100
-    while ($i < 10) :
+    $i = 100;
+    while ($i < 10);
         echo "\$i is $i.";
     endwhile;
-    ?>
+?>
     <!-- returning: -->
 
     <!-- if you write with DO/WHILE: -->
-    <?php
+<?php
     $i = 100;
     do {
         echo "\$i is $i.";
