@@ -63,4 +63,13 @@
             break;
     }
     
+
+    $vetor = array(1,2,3);
+    foreach ($vetor as $n){
+        $n = $n * 2;
+        echo " o valor do elemento atual é: $n <br>";
+    }
 ?>
+
+<!-- https://www.php.net/manual/pt_BR/control-structures.foreach.php -->
+
