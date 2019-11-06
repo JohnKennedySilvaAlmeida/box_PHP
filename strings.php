@@ -92,6 +92,17 @@
     $hora = date("H:i:s");
     echo "hora: ".$hora;
 
+    echo '<br>';
+
+    echo date_default_timezone_get();
+
+    echo '<br>';    // hora brasil
+
+    date_default_timezone_set('Brazil/East');
+
+    $dataeHora = date('d/m/Y H:i');
+
+    echo  $dataeHora;
 
 
 
