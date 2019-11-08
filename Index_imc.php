@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
-<body> 
+<body>
 
     <h1 class="center blue">IMC</h1>
 
@@ -30,7 +30,9 @@
         <label>Peso:</label>
         <input type="text" name="peso" id="peso" placeholder="00" />
 
-        <input type="submit" value="Enviar" name="enviar" id="enviar"/>
+        <a class="btn-floating pulse cyan accent-2"><i class="material-icons">arrow_forward</i></a>
+
+        <input class="text-color cyan accent-2" type="submit" value="Calcular" name="enviar" id="enviar"/>
 
     </form>
 
@@ -40,8 +42,9 @@
     
     ?>
 
-
-
+    <!-- <a class="btn-floating btn-large pulse"><input class="text-color light-blue lighten-3" type="submit"
+    value="Calcular" name="enviar" id="enviar"/>
+    <i class="material-icons">cloud</i></a> -->
 
 
 
