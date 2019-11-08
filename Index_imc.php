@@ -51,10 +51,9 @@
     </form>
 
     <?php
-    
+
         include("funcaoIMC.php");
-        // apenasNum();  --- teste
-    
+
     ?>
 
     <br>

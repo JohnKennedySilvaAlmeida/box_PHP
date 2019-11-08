@@ -1,8 +1,8 @@
 
 <?php 
 
-
     function imc($peso, $altura){
+
 
         $imc = round($peso / ($altura * $altura));
 
@@ -37,6 +37,8 @@
         $altura = $_POST['altura'];
         $peso = $_POST['peso'];
 
+        // str_replace(",",".", $altura);  // obs!!
+        // str_replace(",",".", $peso);   // obs!!
             
         imc($peso, $altura);
 
@@ -47,15 +49,73 @@
 
     }
 
-    // function apenasNum(){
-    //     $campo = $_POST['altura'];
 
-    //     if($campo != is_numeric($campo)){
-    //     echo "Não é numero";
-    //     }else{
-    //     echo "É numero";
+    
+    // teste****************************************************************************************************************************** php
+
+    // function valida(){
+
+    //     echo "<br>"; 
+
+    //     if (isset($_POST["enviar"])) {
+
+    //         $erros = array(); // array
+
+    //         $nome = filter_input(INPUT_POST, "nome",FILTER_SANITIZE_SPECIAL_CHARS,FILTER_SANITIZE_STRING);
+
+    //         $altura = filter_input(INPUT_POST, "altura",FILTER_SANITIZE_NUMBER_FLOAT);
+
+    //         $peso = filter_input(INPUT_POST, "peso",FILTER_SANITIZE_NUMBER_FLOAT);
+
+
+    //         $vnome = strlen($_POST["nome"]);
+
+    //         if ($vnome < 4) {
+
+    //             $erros[] = "Nome inválido!";
+
+    //         }
+
+    //         $altura = filter_input(INPUT_POST,"altura", FILTER_VALIDATE_FLOAT);
+
+    //         if (!$valtura) {
+
+    //             $erros[] = "Altura inválida!";
+
+    //         }
+
+    //         $vpeso = filter_input(INPUT_POST,"peso", FILTER_VALIDATE_FLOAT);
+
+    //         if (!$vpeso) {
+
+    //             $erros[] = "Peso inválido!";
+
+    //         }
+
+
+    //         if (!empty($erros)) {
+
+    //         foreach ($erros as $erro) {
+
+    //             echo "$erro <br>";
+
+    //         }
+
+    //         exit();
+
+    //         }
+
+    //         echo "Dados enviados com sucesso!";
+
+    //         echo "<br> Nome: " . $nome;
+
+    //         echo "<br> Altura: " . $altura;
+
+    //         echo "<br> Peso: " . $peso;
+
     //     }
-    // } teste**
+    // }
+
 
 ?>
 
