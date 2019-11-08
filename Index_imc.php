@@ -53,7 +53,7 @@
     <?php
     
         include("funcaoIMC.php");
-        // apenasNum();  --- test
+        // apenasNum();  --- teste
     
     ?>
 
