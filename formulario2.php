@@ -1,46 +1,55 @@
-<?php
+<?php 
 
-    function formulario(){
-        
-    ?>
-        <form action="formulario2.php" method="POST">
-
-        <input type="text" name="nome" placeholder="Nome"><br>
-        <input type="text" name="end" placeholder="End"><br>
-        <input type="submit" name="enviar" value="Enviar"><br>
-
-        </form> 
-
-    <?php
-
-    }
-
-    
-    function enviar(){
-
-        if ((isset($_POST["nome"])) && (isset($_POST["end"]))) {
-            $res1 = $_POST["nome"]; 
-            $res2 = $_POST["end"];
-    
-            echo "Nome: $res1 <br>";
-            echo "Endereço: $res2 <br>";
-        }else {
-            echo "Favor digitar!";
-        }
-
-    }
-
-    if (array_key_exists("enviar" , $_POST)) {
-        formulario();
-    }else {
-        enviar();
-        echo '<br> <a href="formulario2.php">voltar</a> <br>';
-
-    }
-
+  function formulario(){
 
 ?>
 
+<form action="formulario2.php" method="post">
 
+    <input type="text" name="nome" placeholder="Nome"><br>
 
-<!-- olhar !!!! algum erro ?????? -->
+    <input type="text" name="end" placeholder="End"><br>
+
+    <input type="submit" name="enviar" value="Enviar">
+
+</form>
+
+<?php
+
+  }
+
+  function enviar(){
+
+    if ((isset($_POST["nome"]))&&(isset($_POST["end"]))) {
+
+        $nome = $_POST["nome"]; 
+
+        $end = $_POST["end"];
+
+        echo "Nome: $nome <br>";
+
+        echo "End: $end";
+
+    }else{
+
+        echo "Favor digitar o nome e o end";
+
+    }   
+
+  }
+
+  if (!array_key_exists("enviar",$_POST)) {
+
+      formulario();
+
+  }else{
+
+      enviar();
+
+      echo '<br>
+
+      <a href="formulario2.php">Voltar</a>';
+
+  }
+
+?>
