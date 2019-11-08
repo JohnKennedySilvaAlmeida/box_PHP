@@ -1,24 +1,8 @@
-<!-- <!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <title>Calculador de IMC</title>
-        <link rel="stylesheet" type="text/css" href="style.css" />
-    </head>    
-    <body>
-        <form action="#" method="post">
-          
-            <label>Altura:</label>
-            <input type="text" name="altura" id="altura" placeholder="1.71"/>
-            <label>Peso:</label>
-
-            <input type="text" name="peso" id="peso" placeholder="70" />
-
-            <input type="submit" value="Enviar" name="enviar" id="enviar" />
-        </form> -->
 
 <?php 
 
     if (isset($_POST['enviar'])) {
+        
         $altura = $_POST['altura'];
         $peso = $_POST['peso'];
 
@@ -42,12 +26,13 @@
         if ($imc > 35) {
             return "no nível de obesidade mórbida. <br> Seu imc é {$imc}.";
         }
-    }
 
-    $cauculo_imc = imc($peso, $altura);
-    echo "<h2 align='center'>";
-    echo "O IMC de  está {$cauculo_imc}";
-    echo "</h2>";
+        }
+
+        $cauculo_imc = imc($peso, $altura);
+        echo "<h2 align='center'>";
+        echo "O IMC de  está {$cauculo_imc}";
+        echo "</h2>";
 
     }
 

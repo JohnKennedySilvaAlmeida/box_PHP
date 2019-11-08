@@ -18,17 +18,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
-<body>
+<body> 
 
-    <h1 class="center">IMC</h1>
+    <h1 class="center blue">IMC</h1>
 
     <form action="#" method="post" class="container">
           
         <label>Altura:</label>
-        <input type="text" name="altura" id="altura" placeholder="1.71"/>
-        <label>Peso:</label>
+        <input type="text" name="altura" id="altura" placeholder="0.00"/>
 
-        <input type="text" name="peso" id="peso" placeholder="70" />
+        <label>Peso:</label>
+        <input type="text" name="peso" id="peso" placeholder="00" />
 
         <input type="submit" value="Enviar" name="enviar" id="enviar"/>
 
@@ -36,7 +36,7 @@
 
     <?php
     
-        include("exer.php");
+        include("funca_imc.php");
     
     ?>
 
