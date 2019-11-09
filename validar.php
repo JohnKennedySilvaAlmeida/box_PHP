@@ -80,6 +80,6 @@
 
     echo "<br> Idade: " . $idade;
 
-}
+  }
 
 ?>

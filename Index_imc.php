@@ -33,7 +33,8 @@
 
     <h1 class="center blue container">IMC</h1>
 
-    <form action="#" method="post" class="container">
+    <form action="Index_imc.php" method="post" class="container"> <!--        forma 2-->
+    <!-- <form action="#" method="post" class="container">                    forma 1 -->
 
         <label>Nome:</label>
         <input type="text" name="nome" id="nome" placeholder="abcd" pattern="[a-z\s]+$" required/>
@@ -52,7 +53,8 @@
 
     <?php
 
-        include("funcaoIMC.php");
+      // include("funcaoIMC_1.php");        //forma 1
+      include("funcaoIMC_2.php");           // forma 2        
 
     ?>
 
@@ -80,7 +82,7 @@
             © 2019 Copyright 
             </div>
           </div>
-        </footer>
+    </footer>
 
 
 
