@@ -38,6 +38,9 @@
 
         // str_replace(",",".", $altura);  // obs!!
         // str_replace(",",".", $peso);   // obs!!
+
+        // $idadeNova = str_replace(",",".", $altura);
+        // echo "teste------ " . $altura;
             
         imc($peso, $altura);
 

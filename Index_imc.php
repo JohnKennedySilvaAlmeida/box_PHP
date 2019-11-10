@@ -33,8 +33,8 @@
 
     <h1 class="center blue container">IMC</h1>
 
-    <form action="Index_imc.php" method="post" class="container"> <!--        forma 2-->
-    <!-- <form action="#" method="post" class="container">                    forma 1 -->
+    <form action="Index_imc.php" method="post" class="container">       <!--   forma 2 -->
+    <!-- <form action="#" method="post" class="container">                     forma 1 -->
 
         <label>Nome:</label>
         <input type="text" name="nome" id="nome" placeholder="abcd" pattern="[a-z\s]+$" required/>
@@ -53,7 +53,7 @@
 
     <?php
 
-      // include("funcaoIMC_1.php");        //forma 1
+      //include("funcaoIMC_1.php");        //forma 1
       include("funcaoIMC_2.php");           // forma 2        
 
     ?>
@@ -66,15 +66,6 @@
                 <!-- <h5 class="white-text">Pratique exércícios e tenha uma boa alimentação</h5> -->
                 <p class="grey-text text-lighten-4">Vida Saúde</p>
               </div>
-              <!-- <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
-                <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
-                </ul>
-              </div> -->
             </div>
           </div>
           <div class="footer-copyright">

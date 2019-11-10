@@ -18,6 +18,9 @@
         // str_replace(",",".", $altura);  // obs!! *------- teste 
         // str_replace(",",".", $peso);   // obs!!  -*------- teste
 
+        // number_format($idade,2,",",".");
+        // echo "idade---" . $idade;
+
 
         $vnome = strlen($_POST["nome"]);
 
@@ -75,6 +78,7 @@
 
 
     $imc = round($peso / ($altura * $altura));
+    // $imc = ($peso / ($altura * $altura));
 
     if ($imc < 18.5) {
         // return "Abaixo do peso! <br> Seu imc é {$imc}.";
