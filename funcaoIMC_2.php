@@ -13,11 +13,9 @@
 
         $altura = filter_input(INPUT_POST, "altura" ,FILTER_SANITIZE_NUMBER_FLOAT);
 
-        $peso = filter_input(INPUT_POST, "peso",FILTER_SANITIZE_NUMBER_FLOAT);
+        $peso = filter_input(INPUT_POST, "peso",FILTER_SANITIZE_NUMBER_FLOAT);      
 
-        
-
-
+        // obs !! erros - validar 
         $vnome = strlen($_POST["nome"]);
 
         if ($vnome < 4) {
@@ -27,7 +25,7 @@
         }
 
         $aux_altura = str_replace(".", ",", $_POST['altura']);
-        $money = filter_var($aux_altura, FILTER_VALIDATE_FLOAT, array('options' => array('decimal' => ','))); // obs!!!!
+        $money = filter_var($aux_altura, FILTER_VALIDATE_FLOAT, array('options' => array('decimal' => ','))); // obs!!!! --------------------------------
         
         if (!$money) { // obs!!!
 
@@ -42,8 +40,6 @@
             $erros[] = "<h1 class='center'>!Atenção Peso Inválido!</h1>";
 
         }
-
-
 
         if (!empty($erros)) {
 
@@ -116,7 +112,7 @@
 
     $cauculo_imc = imc($peso, $altura);
 
-    validar($altura); // funcao acima*-*-*-*-*-*-
+    validar($altura);             // funcao acima*-*-*-*-*-*-
 
     echo "<h2 class='center'>Sr.{$nome}<i class='material-icons'>face</i></h2>";
     echo "<h2 class='center'>{$cauculo_imc}</h2>";
