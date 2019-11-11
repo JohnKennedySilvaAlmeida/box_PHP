@@ -3,7 +3,7 @@
 
   echo "<br>"; 
 
-  function validar(){
+  function validar($altura_aux) {
 
     if (isset($_POST["enviar"])) {
 
@@ -11,15 +11,11 @@
 
         $nome = filter_input(INPUT_POST, "nome",FILTER_SANITIZE_SPECIAL_CHARS, FILTER_SANITIZE_STRING);
 
-        $altura = filter_input(INPUT_POST, "altura",FILTER_SANITIZE_NUMBER_FLOAT);
+        $altura = filter_input(INPUT_POST, "altura" ,FILTER_SANITIZE_NUMBER_FLOAT);
 
         $peso = filter_input(INPUT_POST, "peso",FILTER_SANITIZE_NUMBER_FLOAT);
 
-        // str_replace(",",".", $altura);  // obs!! *------- teste 
-        // str_replace(",",".", $peso);   // obs!!  -*------- teste
-
-        // number_format($idade,2,",",".");
-        // echo "idade---" . $idade;
+        
 
 
         $vnome = strlen($_POST["nome"]);
@@ -30,11 +26,12 @@
 
         }
 
-        $valtura = filter_input(INPUT_POST, "altura", FILTER_VALIDATE_FLOAT);           
+        $aux_altura = str_replace(".", ",", $_POST['altura']);
+        $money = filter_var($aux_altura, FILTER_VALIDATE_FLOAT, array('options' => array('decimal' => ','))); // obs!!!!
+        
+        if (!$money) { // obs!!!
 
-        if (!$valtura) {
-
-            $erros[] = "<h1 class='center'>!Atenção Altura Inválida!</h1>";
+            $erros[] = "<h1 class='center'>!Atenção Altura Inválida !</h1>";
 
         }
 
@@ -50,13 +47,13 @@
 
         if (!empty($erros)) {
 
-        foreach ($erros as $erro) {
+          foreach ($erros as $erro) {
 
-            echo "$erro <br>";
+              echo "$erro <br>";
 
-        }
+          }
 
-        exit();
+          exit();
 
         }
 
@@ -74,11 +71,13 @@
 
   }
 
-  function imc($peso, $altura){
-
-
-    $imc = round($peso / ($altura * $altura));
-    // $imc = ($peso / ($altura * $altura));
+  function imc($peso, $altura) {
+    
+    $altura_aux = str_replace(",",".", $altura);
+    $altura = floatval($altura_aux);
+    
+    //$imc = round($peso / ($altura * $altura));
+    $imc = ($peso / $altura * $altura);
 
     if ($imc < 18.5) {
         // return "Abaixo do peso! <br> Seu imc é {$imc}.";
@@ -112,12 +111,12 @@
     $nome = $_POST['nome']; 
     $altura = $_POST['altura'];
     $peso = $_POST['peso'];
-        
+    
     imc($peso, $altura);
 
     $cauculo_imc = imc($peso, $altura);
 
-    validar(); // funcao acima*-*-*-*-*-*-
+    validar($altura); // funcao acima*-*-*-*-*-*-
 
     echo "<h2 class='center'>Sr.{$nome}<i class='material-icons'>face</i></h2>";
     echo "<h2 class='center'>{$cauculo_imc}</h2>";
