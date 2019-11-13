@@ -3,7 +3,8 @@
 
   echo "<br>"; 
 
-  function validar($altura_aux) {
+  // function validar($altura_aux) {
+  function validar() {  
 
     if (isset($_POST["enviar"])) {
 
@@ -24,14 +25,23 @@
 
         }
 
-        $aux_altura = str_replace(".", ",", $_POST['altura']);
-        $money = filter_var($aux_altura, FILTER_VALIDATE_FLOAT, array('options' => array('decimal' => ','))); // obs!!!! --------------------------------
+        // $aux_altura = str_replace(".", ",", $_POST['altura']);
+        // $money = filter_var($aux_altura, FILTER_VALIDATE_FLOAT, array('options' => array('decimal' => ','))); // obs!!!! --------------------------------
         
-        if (!$money) { // obs!!!
+        // if (!$money) { // obs!!!
 
-            $erros[] = "<h1 class='center'>!Atenção Altura Inválida !</h1>";
+        //     $erros[] = "<h1 class='center'>!Atenção Altura Inválida !</h1>";
+
+        // }
+
+        $valtura = filter_input(INPUT_POST,"altura", FILTER_VALIDATE_FLOAT);
+
+        if (!$valtura) {
+
+            $erros[] = "<h1 class='center'>!Atenção Altura Inválido!</h1>";
 
         }
+
 
         $vpeso = filter_input(INPUT_POST,"peso", FILTER_VALIDATE_FLOAT);
 
@@ -69,11 +79,12 @@
 
   function imc($peso, $altura) {
     
-    $altura_aux = str_replace(",",".", $altura);
-    $altura = floatval($altura_aux);
+    // $altura_aux = str_replace(",",".", $altura);
+    // $altura = floatval($altura_aux);
+
     
-    //$imc = round($peso / ($altura * $altura));
-    $imc = ($peso / $altura * $altura);
+    $imc = round($peso / ($altura * $altura));
+    //$imc = ($peso / $altura * $altura);
 
     if ($imc < 18.5) {
         // return "Abaixo do peso! <br> Seu imc é {$imc}.";
