@@ -13,7 +13,7 @@
 	</head>
 	
 <body>
-		<form action="enviar.php" method="post">
+		<form action="enviar1.php" method="post">
 			<label for="nome">Nome:</label>
 			<input type="text" name="nome" id="nome" required> <br>
 			
