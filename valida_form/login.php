@@ -2,12 +2,14 @@
     $login = $_POST['login'];
     $entrar = $_POST['entrar'];
     $senha = md5($_POST['senha']);
-    $connect = mysql_connect('nome_do_servidor','nome_de_usuario','senha');
-    $db = mysql_select_db('nome_do_banco_de_dados'); //obs!!!
+    // $connect = mysql_connect('nome_do_servidor','nome_de_usuario','senha');
+    // $db = mysql_select_db('nome_do_banco_de_dados'); //obs!!!
+    $connect = mysql_connect('localhost','root','');
+    $db = mysql_select_db('usuarios',$connect);
 
     if (isset($entrar)) {
            
-    $verifica = mysql_query("SELECT * FROM usuarios WHERE login = 
+    $verifica = mysql_query("SELECT * FROM usuario WHERE login = 
     '$login' AND senha = '$senha'") or die("erro ao selecionar");
       if (mysql_num_rows($verifica)<=0){
         echo"<script language='javascript' type='text/javascript'>
@@ -20,3 +22,4 @@
       }
   }
 ?>
+
