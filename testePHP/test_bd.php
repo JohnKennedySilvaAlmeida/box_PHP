@@ -42,3 +42,7 @@ $total = mysql_num_rows($dados);
 // tira o resultado da busca da memória
 mysql_free_result($dados);
 ?>
+
+
+
+<!-- carrinho de compra php html - google - site -->
