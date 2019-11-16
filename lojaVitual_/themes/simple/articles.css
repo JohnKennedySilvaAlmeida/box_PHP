@@ -1,0 +1,41 @@
+.articlesubtitle {
+	background : #F5F5F5;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 18px;	
+	font-weight : bold;
+	color : #333333;
+	font-style : italic;
+}
+
+.articletext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : White;
+	color : #333333;
+}
+
+.articlefooter {
+	background : #F5F5F5;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10px;	
+	font-weight : bold;
+	color : #333333;
+}
+
+.articlefooterlink {
+	background : #F5F5F5;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10px;	
+	font-weight : bold;
+	color : Black;
+	text-decoration : none;
+}
+
+.articlefooterlink:HOVER {
+	background : #F5F5F5;
+	color : Red;
+}

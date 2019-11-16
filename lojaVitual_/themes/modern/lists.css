@@ -1,0 +1,60 @@
+/* these are used by listings */
+/* header of listing */
+.row0 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background: #E5E5F0;
+	color: #0000FF;
+	font-weight: bold;
+}
+/* odd lines - also title */
+.row1 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background : #EFEFEF;
+	color: #000000;
+}
+/* even lines - also description */
+.row2 {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : #DEE3E7;
+    color : Black;
+}
+/* blank row - optionally set the same as centerboxtext*/
+.rowblank {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Black;
+    background : transparent;
+}
+/* category row - optionally set the same as centerboxtext with a larger or bold font*/
+.rowgroup {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Black;
+    background : White;
+	font-weight : bold;
+}
+
+.rowpostedby {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	border-bottom: 1px solid #556B2F;
+	border-top: 1px solid #556B2F;
+	color: #696969;
+    background : transparent;
+}
+
+.rowpostedbylink {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background : transparent;
+    text-decoration : none;
+}
+
+.rowpostedbylink:HOVER {
+    color : Black;
+    text-decoration : underline;
+}

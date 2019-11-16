@@ -1,0 +1,104 @@
+/* classes for news */
+.newsexttable {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Black;
+    background-color : #DCDCDC;
+    border : 1px solid #696969;
+}
+
+.newstitle {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Navy;
+    background-color : #DCDCDC;
+}
+
+.newstitlelink {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Navy;
+    background-color : #DCDCDC;
+	text-decoration : none;
+}
+
+.newstitlelink:HOVER {
+    color : Red;
+	text-decoration : underline;
+}
+
+.newsdate {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Navy;
+    background-color : #DCDCDC;
+	text-decoration : none;
+}
+
+.newspostedby {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background-color : #F5F5F5;
+    border-bottom : 1px solid Black;
+    border-top : 1px solid Black;
+}
+
+.newspostedbylink {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background-color : #F5F5F5;
+	text-decoration : none;
+}
+
+.newspostedbylink:HOVER {
+    color : Red;
+	text-decoration : none;
+}
+
+.newstext1 {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    font-weight : normal;
+    color : Black;
+    background-color : White;
+}
+
+.newstext2 {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    font-weight : normal;
+    color : Black;
+    background-color : White;
+}
+
+.newsfooter {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background-color : #F5F5F5;
+    border-top : 1px solid Black;
+}
+
+.newsfooterlink {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background-color : #F5F5F5;
+	text-decoration : none;
+}
+
+.newsfooterlink:HOVER {
+    color : Red;
+	text-decoration : underline;
+}
+
+.newsgap {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #696969;
+    background-color : #F5F5F5;
+    border-bottom : 1px solid Black;
+    border-top : 1px solid Black;
+}

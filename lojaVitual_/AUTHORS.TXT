@@ -1,0 +1,4 @@
+Paulo Assis <paulo@coral.srv.br>
+Michel Weimerskirch <webmaster@csj.lu>
+Oleg V. Kourapov <ok@2sheds.ru>
+Eric Courtes (and PostgreSQL support)

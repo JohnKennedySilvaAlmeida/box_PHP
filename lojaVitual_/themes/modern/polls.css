@@ -1,0 +1,25 @@
+.pollq {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : #0000CD;
+	font-weight : bold;
+}
+
+.polli {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : Navy;
+	font-weight : normal;
+}
+
+.pollb {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : Navy;
+	font-weight : bold;
+	border-top : 1px solid Navy;
+	border-bottom : 1px solid Navy;
+}

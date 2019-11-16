@@ -1,0 +1,36 @@
+.faqquestion {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #F5F5F5;
+	color : Black;
+	font-weight : bold;
+}
+
+.faqanswer {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #F5F5F5;
+	color : Black;
+}
+
+.faqpostedby {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #FAFAFA;
+	color : Black;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+}
+
+.faqpostedbylink {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #F5F5F5;
+	color : Black;
+	text-decoration : none;
+}
+
+.faqpostedbylink:HOVER {
+	color : Red;
+	text-decoration : underline;
+}

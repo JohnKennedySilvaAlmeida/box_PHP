@@ -1,0 +1,60 @@
+/* these are used by listings */
+/* header of listing */
+.row0 {
+	font-family : Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #F0E68C;
+    background-color : #0000C8;
+    font-weight : bold;
+}
+/* odd lines - also title */
+.row1 {
+	font-family : Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Black;
+    background-color : #F0F0F0;
+}
+/* even lines - also description */
+.row2 {
+	font-family : Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Black;
+    background-color : #FFFFFF;
+}
+/* blank row - optionally set the same as centerboxtext*/
+.rowblank {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	background : White;
+	color : #333333;
+}
+/* category row - optionally set the same as centerboxtext with a larger or bold font*/
+.rowgroup {
+	font-family : Arial, Helvetica, sans-serif;
+    font-size : 12px;
+	background : White;
+	color : #333333;
+	font-weight : bold;
+}
+
+.rowpostedby {
+    font-family : Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #999999;
+    background-color : transparent;
+    font-weight : normal;
+    border-bottom : 1px solid #A9A9A9;	
+}
+
+.rowpostedbylink {
+    font-family : Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : #999999;
+    background-color : transparent;
+    text-decoration : none;
+}
+
+.rowpostedbylink:HOVER {
+    color : #666666;
+    text-decoration : underline;
+}

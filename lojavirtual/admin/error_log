@@ -1,0 +1,19 @@
+[27-Jan-2005 22:27:16] PHP Warning:  main(../config.php): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_usuario.php on line 5
+[27-Jan-2005 22:27:16] PHP Warning:  main(../config.php): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_usuario.php on line 5
+[27-Jan-2005 22:27:16] PHP Warning:  main(): Failed opening '../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mehelp/public_html/admin/controle_usuario.php on line 5
+[27-Jan-2005 23:13:14] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[27-Jan-2005 23:13:14] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[27-Jan-2005 23:13:14] PHP Warning:  main(): Failed opening 'esquerda.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[27-Jan-2005 23:13:26] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[27-Jan-2005 23:13:26] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[27-Jan-2005 23:13:26] PHP Warning:  main(): Failed opening 'esquerda.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[01-Feb-2005 16:15:59] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[01-Feb-2005 16:15:59] PHP Warning:  main(esquerda.html): failed to open stream: No such file or directory in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[01-Feb-2005 16:15:59] PHP Warning:  main(): Failed opening 'esquerda.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mehelp/public_html/admin/controle_minhas_imagens.php on line 4
+[04-Nov-2005 06:23:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/alt1/public_html/admin/controle_noticia.php on line 29
+[04-Nov-2005 06:23:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/alt1/public_html/admin/controle_noticia.php on line 30
+[04-Nov-2005 06:23:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/alt1/public_html/admin/controle_noticia.php on line 64
+[04-Nov-2005 06:23:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/alt1/public_html/admin/controle_noticia.php on line 82
+[04-Nov-2005 06:23:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/alt1/public_html/admin/controle_noticia.php on line 112
+[07-Nov-2005 13:12:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/alt1/public_html/admin/controle_usuario.php on line 33
+[07-Nov-2005 13:12:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/alt1/public_html/admin/controle_usuario.php on line 85

@@ -1,0 +1,740 @@
+2005.03.01 13:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php <-- gigantehost /public_html/admin admin.php
+2005.03.01 13:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php <-- gigantehost /public_html/admin alterar_db.php
+2005.03.01 13:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php <-- gigantehost /public_html/admin alterar_downloads.php
+2005.03.01 13:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php <-- gigantehost /public_html/admin alterar_downloads_db.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php <-- gigantehost /public_html/admin alterar_imagem.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php <-- gigantehost /public_html/admin alterar_imagem_db.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php <-- gigantehost /public_html/admin alterar_links.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php <-- gigantehost /public_html/admin alterar_links_db.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php <-- gigantehost /public_html/admin alterar_minhas_imagens.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php <-- gigantehost /public_html/admin alterar_minhas_imagens_db.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php <-- gigantehost /public_html/admin alterar_noticia.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php <-- gigantehost /public_html/admin alterar_usuario.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php <-- gigantehost /public_html/admin alterar_usuario_db.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php <-- gigantehost /public_html/admin conecta.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php <-- gigantehost /public_html/admin confirmar_loginadm.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php <-- gigantehost /public_html/admin controle_downloads.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php <-- gigantehost /public_html/admin controle_imagens.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php <-- gigantehost /public_html/admin controle_links.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php <-- gigantehost /public_html/admin controle_minhas_imagens.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php <-- gigantehost /public_html/admin controle_noticia.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php <-- gigantehost /public_html/admin controle_usuario.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log <-- gigantehost /public_html/admin error_log
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php <-- gigantehost /public_html/admin excluir_downloads.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php <-- gigantehost /public_html/admin excluir_imagem.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php <-- gigantehost /public_html/admin excluir_links.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php <-- gigantehost /public_html/admin excluir_minhas_imagens.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php <-- gigantehost /public_html/admin excluir_noticia.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php <-- gigantehost /public_html/admin excluir_usuario.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html <-- gigantehost /public_html/admin index.html
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php <-- gigantehost /public_html/admin loginadm.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php <-- gigantehost /public_html/admin logoutadmin.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php <-- gigantehost /public_html/admin opendir.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php <-- gigantehost /public_html/admin pagina.php
+2005.03.01 13:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html <-- gigantehost /public_html/admin topo.html
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> 66.111.53.50 /public_html/admin alterar_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 66.111.53.50 /public_html/admin alterar_downloads_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> 66.111.53.50 /public_html/admin alterar_imagem.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> 66.111.53.50 /public_html/admin alterar_imagem_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php --> 66.111.53.50 /public_html/admin alterar_links.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php --> 66.111.53.50 /public_html/admin alterar_links_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php --> 66.111.53.50 /public_html/admin alterar_minhas_imagens.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php --> 66.111.53.50 /public_html/admin alterar_minhas_imagens_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> 66.111.53.50 /public_html/admin alterar_noticia.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> 66.111.53.50 /public_html/admin alterar_usuario.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> 66.111.53.50 /public_html/admin alterar_usuario_db.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php --> 66.111.53.50 /public_html/admin conecta.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> 66.111.53.50 /public_html/admin confirmar_loginadm.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php --> 66.111.53.50 /public_html/admin controle_links.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php --> 66.111.53.50 /public_html/admin controle_minhas_imagens.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> 66.111.53.50 /public_html/admin controle_noticia.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 66.111.53.50 /public_html/admin controle_usuario.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log --> 66.111.53.50 /public_html/admin error_log
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php --> 66.111.53.50 /public_html/admin excluir_downloads.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> 66.111.53.50 /public_html/admin excluir_imagem.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php --> 66.111.53.50 /public_html/admin excluir_links.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php --> 66.111.53.50 /public_html/admin excluir_minhas_imagens.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> 66.111.53.50 /public_html/admin excluir_noticia.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> 66.111.53.50 /public_html/admin excluir_usuario.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html --> 66.111.53.50 /public_html/admin index.html
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> 66.111.53.50 /public_html/admin loginadm.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> 66.111.53.50 /public_html/admin logoutadmin.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php --> 66.111.53.50 /public_html/admin opendir.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php --> 66.111.53.50 /public_html/admin pagina.php
+2005.03.07 22:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> 66.111.53.50 /public_html/admin topo.html
+2005.03.09 12:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.03.09 12:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.03.13 12:22 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> 66.111.53.50 /public_html/admin topo.html
+2005.03.17 15:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.03.17 15:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 15:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> 66.111.53.50 /public_html/admin alterar_materia.php
+2005.03.17 15:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> 66.111.53.50 /public_html/admin controle_materias.php
+2005.03.17 15:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_materia.php --> 66.111.53.50 /public_html/admin excluir_materia.php
+2005.03.17 15:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 15:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> 66.111.53.50 /public_html/admin alterar_materia.php
+2005.03.17 15:32 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 15:33 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 15:57 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> 66.111.53.50 /public_html/admin alterar_materia.php
+2005.03.17 15:57 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.03.17 18:03 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.03.17 18:03 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 66.111.53.50 /public_html/admin alterar_downloads_db.php
+2005.03.17 18:04 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.03.17 18:04 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php --> 66.111.53.50 /public_html/admin excluir_downloads.php
+2005.03.16 20:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 66.111.53.50 /public_html/admin alterar_downloads_db.php
+2005.03.16 20:28 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.03.21 16:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.03.21 16:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 66.111.53.50 /public_html/admin alterar_downloads_db.php
+2005.03.21 16:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> 66.111.53.50 /public_html/admin controle_faleconosco.php
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> 66.111.53.50 /public_html/admin excluir_faleconosco.php
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> 66.111.53.50 /public_html/admin ver_faleconosco.php
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.php --> 66.111.53.50 /public_html/admin topo.php
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> 66.111.53.50 /public_html/admin topo.html
+2005.03.29 11:31 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.04.01 09:51 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html alterar_downloads.php
+2005.04.01 09:55 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.04.01 13:52 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 66.111.53.50 /public_html/admin controle_usuario.php
+2005.04.01 13:54 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 66.111.53.50 /public_html/admin controle_usuario.php
+2005.04.26 11:12 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> 66.111.53.50 /public_html/admin confirmar_loginadm.php
+2005.04.26 11:17 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> 66.111.53.50 /public_html/admin confirmar_loginadm.php
+2005.04.26 12:19 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> 66.111.53.50 /public_html/admin alterar_db.php
+2005.04.27 12:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 66.111.53.50 /public_html/admin alterar_materia_db.php
+2005.04.27 12:32 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> 66.111.53.50 /public_html/admin alterar_materia.php
+2005.05.01 13:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 13:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> 66.111.53.50 /public_html/admin excluir_imagem.php
+2005.05.01 13:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.05.01 13:12 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 13:19 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 13:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> 66.111.53.50 /public_html/admin excluir_imagem.php
+2005.05.01 13:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> 66.111.53.50 /public_html/admin alterar_imagem.php
+2005.05.01 13:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> 66.111.53.50 /public_html/admin alterar_imagem_db.php
+2005.05.01 14:06 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:35 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> 66.111.53.50 /public_html/admin alterar_imagem.php
+2005.05.01 14:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> 66.111.53.50 /public_html/admin alterar_imagem_db.php
+2005.05.01 14:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:48 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:48 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> 66.111.53.50 /public_html/admin alterar_imagem.php
+2005.05.01 14:48 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> 66.111.53.50 /public_html/admin alterar_imagem_db.php
+2005.05.01 14:52 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 14:55 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 15:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 15:04 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 15:07 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.01 15:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.02 07:35 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html controle_imagens.php
+2005.05.02 07:35 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.02 07:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.02 07:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.03 01:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> 66.111.53.50 /public_html/admin controle_noticia.php
+2005.05.03 01:18 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.03 01:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.03 16:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 66.111.53.50 /public_html/admin controle_usuario.php
+2005.05.08 20:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html controle_downloads.php
+2005.05.08 20:26 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 66.111.53.50 /public_html/admin alterar_downloads.php
+2005.05.08 20:26 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 66.111.53.50 /public_html/admin alterar_downloads_db.php
+2005.05.08 20:26 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.05.09 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.05.09 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu.php --> 66.111.53.50 /public_html/admin alterar_menu.php
+2005.05.09 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu_db.php --> 66.111.53.50 /public_html/admin alterar_menu_db.php
+2005.05.09 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_menu.php --> 66.111.53.50 /public_html/admin controle_menu.php
+2005.05.09 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_menu.php --> 66.111.53.50 /public_html/admin excluir_menu.php
+2005.05.09 11:15 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_menu.php --> 66.111.53.50 /public_html/admin cadastra_menu.php
+2005.05.09 11:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_menu.php --> 66.111.53.50 /public_html/admin inserir_menu.php
+2005.05.09 15:00 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.05.09 15:04 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 66.111.53.50 /public_html/admin controle_downloads.php
+2005.05.09 15:07 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> 66.111.53.50 /public_html/admin controle_materias.php
+2005.05.09 15:12 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> 66.111.53.50 /public_html/admin controle_materias.php
+2005.05.09 15:48 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php <-- gigantehost /public_html/admin alterar_imagem_db.php
+2005.05.09 15:49 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php <-- gigantehost /public_html/admin controle_imagens.php
+2005.05.09 15:49 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php <-- gigantehost /public_html/admin createthumb.php
+2005.05.09 15:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.05.09 15:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php --> 66.111.53.50 /public_html/admin createthumb.php
+2005.05.10 17:39 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php <-- gigantehost /public_html/admin controle_downloads.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_coluna.php --> 66.111.53.50 /public_html/admin controle_coluna.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_coluna.php --> 66.111.53.50 /public_html/admin cadastra_coluna.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php --> 66.111.53.50 /public_html/admin alterar_coluna.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php --> 66.111.53.50 /public_html/admin alterar_coluna_db.php
+2005.05.10 21:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_coluna.php --> 66.111.53.50 /public_html/admin excluir_coluna.php
+2005.05.10 21:46 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.05.10 21:50 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_coluna.php --> 66.111.53.50 /public_html/admin inserir_coluna.php
+2005.05.11 16:02 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 66.111.53.50 /public_html/admin admin.php
+2005.05.11 16:03 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_cursos.php --> 66.111.53.50 /public_html/admin controle_cursos.php
+2005.05.11 16:03 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_cursos.php --> 66.111.53.50 /public_html/admin excluir_cursos.php
+2005.05.11 16:04 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_cursos.php --> 66.111.53.50 /public_html/admin cadastra_cursos.php
+2005.05.11 16:05 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_cursos.php --> 66.111.53.50 /public_html/admin inserir_cursos.php
+2005.05.12 16:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 66.111.53.50 /public_html/admin controle_usuario.php
+2005.05.25 10:17 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 66.111.53.50 /public_html/admin controle_imagens.php
+2005.06.23 15:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /public_html/admin controle_faleconosco.php
+2005.06.23 15:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /public_html/admin admin.php
+2005.06.23 15:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> ftp.mehelp.com /public_html/admin excluir_faleconosco.php
+2005.06.23 15:11 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /public_html/admin loginadm.php
+2005.06.23 15:27 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /public_html/admin loginadm.php
+2005.06.23 15:27 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /public_html/admin confirmar_loginadm.php
+2005.06.23 15:32 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /public_html/admin topo.html
+2005.06.23 15:35 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /public_html/admin confirmar_loginadm.php
+2005.06.23 15:36 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> ftp.mehelp.com /public_html/admin ver_faleconosco.php
+2005.06.25 11:13 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> ftp.mehelp.com /public_html/admin alterar_usuario.php
+2005.06.25 11:13 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> ftp.mehelp.com /public_html/admin alterar_usuario_db.php
+2005.06.25 11:13 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /public_html/admin controle_usuario.php
+2005.07.01 11:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> ftp.mehelp.com /public_html/admin alterar_db.php
+2005.07.01 11:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.mehelp.com /public_html/admin alterar_noticia.php
+2005.07.01 11:37 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /public_html/admin controle_noticia.php
+2005.07.01 11:38 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.07.01 11:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.07.01 11:43 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.07.01 11:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.07.01 11:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com / excluir_noticia.php
+2005.07.01 11:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.07.03 21:19 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> ftp.mehelp.com /public_html/admin excluir_usuario.php
+2005.07.05 17:36 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> ftp.mehelp.com /public_html/admin alterar_db.php
+2005.07.05 17:36 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.mehelp.com /public_html/admin alterar_noticia.php
+2005.07.05 17:36 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /public_html/admin controle_noticia.php
+2005.07.11 17:09 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /public_html/admin controle_faleconosco.php
+2005.08.07 21:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /public_html/admin admin.php
+2005.08.07 21:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> ftp.mehelp.com /public_html/admin alterar_concursos.php
+2005.08.07 21:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> ftp.mehelp.com /public_html/admin alterar_concursos_db.php
+2005.08.07 21:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> ftp.mehelp.com /public_html/admin alterar_db.php
+2005.08.07 21:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.mehelp.com /public_html/admin alterar_noticia.php
+2005.08.07 21:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_concursos.php --> ftp.mehelp.com /public_html/admin controle_concursos.php
+2005.08.07 21:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /public_html/admin controle_noticia.php
+2005.08.07 21:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> ftp.mehelp.com /public_html/admin excluir_usuario.php
+2005.08.07 21:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /public_html/admin excluir_noticia.php
+2005.08.07 21:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> ftp.mehelp.com /public_html/admin logoutadmin.php
+2005.08.07 22:19 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php --> ftp.mehelp.com /public_html/admin cadastra_concursos.php
+2005.08.07 22:19 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_concursos.php --> ftp.mehelp.com /public_html/admin inserir_concursos.php
+2005.08.07 22:20 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php --> ftp.mehelp.com /public_html/admin excluir_concursos.php
+2005.08.07 22:21 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /public_html/admin admin.php
+2005.08.07 22:22 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /public_html/admin loginadm.php
+2005.08.07 22:23 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /public_html/admin confirmar_loginadm.php
+2005.08.07 22:28 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /public_html/admin admin.php
+2005.08.07 22:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php --> ftp.mehelp.com /public_html/admin cadastra_concursos.php
+2005.08.07 22:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /public_html/admin topo.html
+2005.08.07 22:57 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> ftp.mehelp.com /public_html/admin alterar_concursos_db.php
+2005.08.07 23:10 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> ftp.mehelp.com /public_html/admin alterar_concursos.php
+2005.08.08 15:54 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /public_html/admin controle_usuario.php
+2005.08.08 17:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php <-- mehelp /public_html/admin controle_usuario.php
+2005.08.08 17:32 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /public_html/admin controle_faleconosco.php
+2005.08.08 17:33 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> ftp.mehelp.com /public_html/admin excluir_faleconosco.php
+2005.08.08 17:33 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> ftp.mehelp.com /public_html/admin ver_faleconosco.php
+2005.08.08 17:34 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /public_html/admin admin.php
+2005.08.12 10:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /public_html/admin topo.html
+2005.08.12 10:26 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /public_html/admin controle_noticia.php
+2005.08.16 10:42 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /public_html/admin controle_noticia.php
+2005.09.02 09:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php --> ftp.mehelp.com /public_html/admin excluir_concursos.php
+2005.10.10 18:43 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com / admin.php
+2005.10.10 18:44 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /admin admin.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /admin loginadm.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> ftp.mehelp.com /admin logoutadmin.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /admin confirmar_loginadm.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /admin controle_faleconosco.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> ftp.mehelp.com /admin ver_faleconosco.php
+2005.10.10 18:45 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> ftp.mehelp.com /admin excluir_faleconosco.php
+2005.10.10 18:51 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /admin topo.html
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /admin admin.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php --> ftp.mehelp.com /admin alterar_coluna.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php --> ftp.mehelp.com /admin alterar_coluna_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> ftp.mehelp.com /admin alterar_concursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> ftp.mehelp.com /admin alterar_concursos_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> ftp.mehelp.com /admin alterar_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> ftp.mehelp.com /admin alterar_downloads.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> ftp.mehelp.com /admin alterar_downloads_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> ftp.mehelp.com /admin alterar_imagem.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> ftp.mehelp.com /admin alterar_imagem_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php --> ftp.mehelp.com /admin alterar_links.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php --> ftp.mehelp.com /admin alterar_links_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> ftp.mehelp.com /admin alterar_materia.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> ftp.mehelp.com /admin alterar_materia_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu.php --> ftp.mehelp.com /admin alterar_menu.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu_db.php --> ftp.mehelp.com /admin alterar_menu_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php --> ftp.mehelp.com /admin alterar_minhas_imagens.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php --> ftp.mehelp.com /admin alterar_minhas_imagens_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.mehelp.com /admin alterar_noticia.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> ftp.mehelp.com /admin alterar_usuario.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> ftp.mehelp.com /admin alterar_usuario_db.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_coluna.php --> ftp.mehelp.com /admin cadastra_coluna.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php --> ftp.mehelp.com /admin cadastra_concursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_cursos.php --> ftp.mehelp.com /admin cadastra_cursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_menu.php --> ftp.mehelp.com /admin cadastra_menu.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php --> ftp.mehelp.com /admin conecta.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /admin confirmar_loginadm.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_coluna.php --> ftp.mehelp.com /admin controle_coluna.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_concursos.php --> ftp.mehelp.com /admin controle_concursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_cursos.php --> ftp.mehelp.com /admin controle_cursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> ftp.mehelp.com /admin controle_downloads.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /admin controle_faleconosco.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> ftp.mehelp.com /admin controle_imagens.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php --> ftp.mehelp.com /admin controle_links.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> ftp.mehelp.com /admin controle_materias.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_menu.php --> ftp.mehelp.com /admin controle_menu.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php --> ftp.mehelp.com /admin controle_minhas_imagens.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /admin controle_noticia.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /admin controle_usuario.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php --> ftp.mehelp.com /admin createthumb.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\enviar_mensagem.php --> ftp.mehelp.com /admin enviar_mensagem.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log --> ftp.mehelp.com /admin error_log
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_coluna.php --> ftp.mehelp.com /admin excluir_coluna.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php --> ftp.mehelp.com /admin excluir_concursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_cursos.php --> ftp.mehelp.com /admin excluir_cursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php --> ftp.mehelp.com /admin excluir_downloads.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> ftp.mehelp.com /admin excluir_faleconosco.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> ftp.mehelp.com /admin excluir_imagem.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php --> ftp.mehelp.com /admin excluir_links.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_materia.php --> ftp.mehelp.com /admin excluir_materia.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_menu.php --> ftp.mehelp.com /admin excluir_menu.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php --> ftp.mehelp.com /admin excluir_minhas_imagens.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /admin excluir_noticia.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> ftp.mehelp.com /admin excluir_usuario.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html --> ftp.mehelp.com /admin index.html
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_coluna.php --> ftp.mehelp.com /admin inserir_coluna.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_concursos.php --> ftp.mehelp.com /admin inserir_concursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_cursos.php --> ftp.mehelp.com /admin inserir_cursos.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_menu.php --> ftp.mehelp.com /admin inserir_menu.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /admin loginadm.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> ftp.mehelp.com /admin logoutadmin.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\marcar.php --> ftp.mehelp.com /admin marcar.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php --> ftp.mehelp.com /admin opendir.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php --> ftp.mehelp.com /admin pagina.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /admin topo.html
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.php --> ftp.mehelp.com /admin topo.php
+2005.10.13 19:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> ftp.mehelp.com /admin ver_faleconosco.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.mehelp.com /admin admin.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php --> ftp.mehelp.com /admin alterar_coluna.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php --> ftp.mehelp.com /admin alterar_coluna_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> ftp.mehelp.com /admin alterar_concursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> ftp.mehelp.com /admin alterar_concursos_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> ftp.mehelp.com /admin alterar_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> ftp.mehelp.com /admin alterar_downloads.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> ftp.mehelp.com /admin alterar_downloads_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> ftp.mehelp.com /admin alterar_imagem.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> ftp.mehelp.com /admin alterar_imagem_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php --> ftp.mehelp.com /admin alterar_links.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php --> ftp.mehelp.com /admin alterar_links_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> ftp.mehelp.com /admin alterar_materia.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> ftp.mehelp.com /admin alterar_materia_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu.php --> ftp.mehelp.com /admin alterar_menu.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu_db.php --> ftp.mehelp.com /admin alterar_menu_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php --> ftp.mehelp.com /admin alterar_minhas_imagens.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php --> ftp.mehelp.com /admin alterar_minhas_imagens_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.mehelp.com /admin alterar_noticia.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> ftp.mehelp.com /admin alterar_usuario.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> ftp.mehelp.com /admin alterar_usuario_db.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_coluna.php --> ftp.mehelp.com /admin cadastra_coluna.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php --> ftp.mehelp.com /admin cadastra_concursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_cursos.php --> ftp.mehelp.com /admin cadastra_cursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_menu.php --> ftp.mehelp.com /admin cadastra_menu.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php --> ftp.mehelp.com /admin conecta.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /admin confirmar_loginadm.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_coluna.php --> ftp.mehelp.com /admin controle_coluna.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_concursos.php --> ftp.mehelp.com /admin controle_concursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_cursos.php --> ftp.mehelp.com /admin controle_cursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> ftp.mehelp.com /admin controle_downloads.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> ftp.mehelp.com /admin controle_faleconosco.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> ftp.mehelp.com /admin controle_imagens.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php --> ftp.mehelp.com /admin controle_links.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> ftp.mehelp.com /admin controle_materias.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_menu.php --> ftp.mehelp.com /admin controle_menu.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php --> ftp.mehelp.com /admin controle_minhas_imagens.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.mehelp.com /admin controle_noticia.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /admin controle_usuario.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php --> ftp.mehelp.com /admin createthumb.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\enviar_mensagem.php --> ftp.mehelp.com /admin enviar_mensagem.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log --> ftp.mehelp.com /admin error_log
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_coluna.php --> ftp.mehelp.com /admin excluir_coluna.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php --> ftp.mehelp.com /admin excluir_concursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_cursos.php --> ftp.mehelp.com /admin excluir_cursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php --> ftp.mehelp.com /admin excluir_downloads.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> ftp.mehelp.com /admin excluir_faleconosco.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> ftp.mehelp.com /admin excluir_imagem.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php --> ftp.mehelp.com /admin excluir_links.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_materia.php --> ftp.mehelp.com /admin excluir_materia.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_menu.php --> ftp.mehelp.com /admin excluir_menu.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php --> ftp.mehelp.com /admin excluir_minhas_imagens.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> ftp.mehelp.com /admin excluir_noticia.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> ftp.mehelp.com /admin excluir_usuario.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html --> ftp.mehelp.com /admin index.html
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_coluna.php --> ftp.mehelp.com /admin inserir_coluna.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_concursos.php --> ftp.mehelp.com /admin inserir_concursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_cursos.php --> ftp.mehelp.com /admin inserir_cursos.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_menu.php --> ftp.mehelp.com /admin inserir_menu.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> ftp.mehelp.com /admin loginadm.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> ftp.mehelp.com /admin logoutadmin.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\marcar.php --> ftp.mehelp.com /admin marcar.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php --> ftp.mehelp.com /admin opendir.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php --> ftp.mehelp.com /admin pagina.php
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.mehelp.com /admin topo.html
+2005.10.14 10:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.php --> ftp.mehelp.com /admin topo.php
+2005.10.14 11:01 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> ftp.mehelp.com /admin confirmar_loginadm.php
+2005.10.14 11:22 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> ftp.mehelp.com /admin alterar_usuario.php
+2005.10.14 11:22 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /admin controle_usuario.php
+2005.10.14 11:24 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> ftp.mehelp.com /admin alterar_usuario_db.php
+2005.10.14 11:26 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> ftp.mehelp.com /admin controle_usuario.php
+2005.11.04 09:28 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 72.36.239.106 /public_html admin.php
+2005.11.04 09:28 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php --> 72.36.239.106 /public_html alterar_coluna.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php --> 72.36.239.106 /public_html alterar_coluna_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> 72.36.239.106 /public_html alterar_concursos.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> 72.36.239.106 /public_html alterar_concursos_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 72.36.239.106 /public_html/admin admin.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php --> 72.36.239.106 /public_html/admin alterar_coluna.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php --> 72.36.239.106 /public_html/admin alterar_coluna_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php --> 72.36.239.106 /public_html/admin alterar_concursos.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php --> 72.36.239.106 /public_html/admin alterar_concursos_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php --> 72.36.239.106 /public_html/admin alterar_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php --> 72.36.239.106 /public_html/admin alterar_downloads.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php --> 72.36.239.106 /public_html/admin alterar_downloads_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php --> 72.36.239.106 /public_html/admin alterar_imagem.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php --> 72.36.239.106 /public_html/admin alterar_imagem_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php --> 72.36.239.106 /public_html/admin alterar_links.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php --> 72.36.239.106 /public_html/admin alterar_links_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php --> 72.36.239.106 /public_html/admin alterar_materia.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php --> 72.36.239.106 /public_html/admin alterar_materia_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu.php --> 72.36.239.106 /public_html/admin alterar_menu.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu_db.php --> 72.36.239.106 /public_html/admin alterar_menu_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php --> 72.36.239.106 /public_html/admin alterar_minhas_imagens.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php --> 72.36.239.106 /public_html/admin alterar_minhas_imagens_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> 72.36.239.106 /public_html/admin alterar_noticia.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php --> 72.36.239.106 /public_html/admin alterar_usuario.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php --> 72.36.239.106 /public_html/admin alterar_usuario_db.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_coluna.php --> 72.36.239.106 /public_html/admin cadastra_coluna.php
+2005.11.04 09:29 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php --> 72.36.239.106 /public_html/admin cadastra_concursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_cursos.php --> 72.36.239.106 /public_html/admin cadastra_cursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_menu.php --> 72.36.239.106 /public_html/admin cadastra_menu.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php --> 72.36.239.106 /public_html/admin conecta.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php --> 72.36.239.106 /public_html/admin confirmar_loginadm.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_coluna.php --> 72.36.239.106 /public_html/admin controle_coluna.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_concursos.php --> 72.36.239.106 /public_html/admin controle_concursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_cursos.php --> 72.36.239.106 /public_html/admin controle_cursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php --> 72.36.239.106 /public_html/admin controle_downloads.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php --> 72.36.239.106 /public_html/admin controle_faleconosco.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php --> 72.36.239.106 /public_html/admin controle_imagens.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php --> 72.36.239.106 /public_html/admin controle_links.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php --> 72.36.239.106 /public_html/admin controle_materias.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_menu.php --> 72.36.239.106 /public_html/admin controle_menu.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php --> 72.36.239.106 /public_html/admin controle_minhas_imagens.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> 72.36.239.106 /public_html/admin controle_noticia.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php --> 72.36.239.106 /public_html/admin controle_usuario.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php --> 72.36.239.106 /public_html/admin createthumb.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\enviar_mensagem.php --> 72.36.239.106 /public_html/admin enviar_mensagem.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log --> 72.36.239.106 /public_html/admin error_log
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_coluna.php --> 72.36.239.106 /public_html/admin excluir_coluna.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php --> 72.36.239.106 /public_html/admin excluir_concursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_cursos.php --> 72.36.239.106 /public_html/admin excluir_cursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php --> 72.36.239.106 /public_html/admin excluir_downloads.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php --> 72.36.239.106 /public_html/admin excluir_faleconosco.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php --> 72.36.239.106 /public_html/admin excluir_imagem.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php --> 72.36.239.106 /public_html/admin excluir_links.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_materia.php --> 72.36.239.106 /public_html/admin excluir_materia.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_menu.php --> 72.36.239.106 /public_html/admin excluir_menu.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php --> 72.36.239.106 /public_html/admin excluir_minhas_imagens.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php --> 72.36.239.106 /public_html/admin excluir_noticia.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php --> 72.36.239.106 /public_html/admin excluir_usuario.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html --> 72.36.239.106 /public_html/admin index.html
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_coluna.php --> 72.36.239.106 /public_html/admin inserir_coluna.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_concursos.php --> 72.36.239.106 /public_html/admin inserir_concursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_cursos.php --> 72.36.239.106 /public_html/admin inserir_cursos.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_menu.php --> 72.36.239.106 /public_html/admin inserir_menu.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php --> 72.36.239.106 /public_html/admin loginadm.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php --> 72.36.239.106 /public_html/admin logoutadmin.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\marcar.php --> 72.36.239.106 /public_html/admin marcar.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php --> 72.36.239.106 /public_html/admin opendir.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php --> 72.36.239.106 /public_html/admin pagina.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> 72.36.239.106 /public_html/admin topo.html
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.php --> 72.36.239.106 /public_html/admin topo.php
+2005.11.04 09:30 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php --> 72.36.239.106 /public_html/admin ver_faleconosco.php
+2005.11.04 11:13 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> 72.36.239.106 /public_html/admin admin.php
+2005.11.04 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul.php --> 72.36.239.106 /public_html/admin alterar_facul.php
+2005.11.04 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul_db.php --> 72.36.239.106 /public_html/admin alterar_facul_db.php
+2005.11.04 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_facul.php --> 72.36.239.106 /public_html/admin controle_facul.php
+2005.11.04 11:14 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_facul.php --> 72.36.239.106 /public_html/admin excluir_facul.php
+2005.11.04 13:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_facul.php --> 72.36.239.106 /public_html/admin cadastra_facul.php
+2005.11.04 13:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_facul.php --> 72.36.239.106 /public_html/admin inserir_facul.php
+2005.11.08 09:28 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul.php --> 72.36.239.106 /public_html/admin alterar_facul.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul.php --> 72.36.239.106 /public_html/admin alterar_facul.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul_db.php --> 72.36.239.106 /public_html/admin alterar_facul_db.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_facul.php --> 72.36.239.106 /public_html/admin cadastra_facul.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_facul.php --> 72.36.239.106 /public_html/admin controle_facul.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_facul.php --> 72.36.239.106 /public_html/admin excluir_facul.php
+2005.11.08 10:16 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_facul.php --> 72.36.239.106 /public_html/admin inserir_facul.php
+2005.11.08 10:27 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_facul.php --> 72.36.239.106 /public_html/admin controle_facul.php
+2005.11.08 10:27 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_facul.php --> 72.36.239.106 /public_html/admin controle_facul.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php <-- NOVOSABER /public_html/admin admin.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna.php <-- NOVOSABER /public_html/admin alterar_coluna.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_coluna_db.php <-- NOVOSABER /public_html/admin alterar_coluna_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos.php <-- NOVOSABER /public_html/admin alterar_concursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_concursos_db.php <-- NOVOSABER /public_html/admin alterar_concursos_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_db.php <-- NOVOSABER /public_html/admin alterar_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads.php <-- NOVOSABER /public_html/admin alterar_downloads.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_downloads_db.php <-- NOVOSABER /public_html/admin alterar_downloads_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul.php <-- NOVOSABER /public_html/admin alterar_facul.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_facul_db.php <-- NOVOSABER /public_html/admin alterar_facul_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem.php <-- NOVOSABER /public_html/admin alterar_imagem.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_imagem_db.php <-- NOVOSABER /public_html/admin alterar_imagem_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links.php <-- NOVOSABER /public_html/admin alterar_links.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_links_db.php <-- NOVOSABER /public_html/admin alterar_links_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia.php <-- NOVOSABER /public_html/admin alterar_materia.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_materia_db.php <-- NOVOSABER /public_html/admin alterar_materia_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu.php <-- NOVOSABER /public_html/admin alterar_menu.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_menu_db.php <-- NOVOSABER /public_html/admin alterar_menu_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens.php <-- NOVOSABER /public_html/admin alterar_minhas_imagens.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_minhas_imagens_db.php <-- NOVOSABER /public_html/admin alterar_minhas_imagens_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php <-- NOVOSABER /public_html/admin alterar_noticia.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario.php <-- NOVOSABER /public_html/admin alterar_usuario.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_usuario_db.php <-- NOVOSABER /public_html/admin alterar_usuario_db.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_coluna.php <-- NOVOSABER /public_html/admin cadastra_coluna.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_concursos.php <-- NOVOSABER /public_html/admin cadastra_concursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_cursos.php <-- NOVOSABER /public_html/admin cadastra_cursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_facul.php <-- NOVOSABER /public_html/admin cadastra_facul.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\cadastra_menu.php <-- NOVOSABER /public_html/admin cadastra_menu.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\conecta.php <-- NOVOSABER /public_html/admin conecta.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\confirmar_loginadm.php <-- NOVOSABER /public_html/admin confirmar_loginadm.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_coluna.php <-- NOVOSABER /public_html/admin controle_coluna.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_concursos.php <-- NOVOSABER /public_html/admin controle_concursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_cursos.php <-- NOVOSABER /public_html/admin controle_cursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_downloads.php <-- NOVOSABER /public_html/admin controle_downloads.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_facul.php <-- NOVOSABER /public_html/admin controle_facul.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_faleconosco.php <-- NOVOSABER /public_html/admin controle_faleconosco.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_imagens.php <-- NOVOSABER /public_html/admin controle_imagens.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_links.php <-- NOVOSABER /public_html/admin controle_links.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_materias.php <-- NOVOSABER /public_html/admin controle_materias.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_menu.php <-- NOVOSABER /public_html/admin controle_menu.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_minhas_imagens.php <-- NOVOSABER /public_html/admin controle_minhas_imagens.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php <-- NOVOSABER /public_html/admin controle_noticia.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_usuario.php <-- NOVOSABER /public_html/admin controle_usuario.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\createthumb.php <-- NOVOSABER /public_html/admin createthumb.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\enviar_mensagem.php <-- NOVOSABER /public_html/admin enviar_mensagem.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\error_log <-- NOVOSABER /public_html/admin error_log
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_coluna.php <-- NOVOSABER /public_html/admin excluir_coluna.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_concursos.php <-- NOVOSABER /public_html/admin excluir_concursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_cursos.php <-- NOVOSABER /public_html/admin excluir_cursos.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_downloads.php <-- NOVOSABER /public_html/admin excluir_downloads.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_facul.php <-- NOVOSABER /public_html/admin excluir_facul.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_faleconosco.php <-- NOVOSABER /public_html/admin excluir_faleconosco.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_imagem.php <-- NOVOSABER /public_html/admin excluir_imagem.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_links.php <-- NOVOSABER /public_html/admin excluir_links.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_materia.php <-- NOVOSABER /public_html/admin excluir_materia.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_menu.php <-- NOVOSABER /public_html/admin excluir_menu.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_minhas_imagens.php <-- NOVOSABER /public_html/admin excluir_minhas_imagens.php
+2005.11.08 15:40 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_noticia.php <-- NOVOSABER /public_html/admin excluir_noticia.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\excluir_usuario.php <-- NOVOSABER /public_html/admin excluir_usuario.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\index.html <-- NOVOSABER /public_html/admin index.html
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_coluna.php <-- NOVOSABER /public_html/admin inserir_coluna.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_concursos.php <-- NOVOSABER /public_html/admin inserir_concursos.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_cursos.php <-- NOVOSABER /public_html/admin inserir_cursos.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_facul.php <-- NOVOSABER /public_html/admin inserir_facul.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\inserir_menu.php <-- NOVOSABER /public_html/admin inserir_menu.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\loginadm.php <-- NOVOSABER /public_html/admin loginadm.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\logoutadmin.php <-- NOVOSABER /public_html/admin logoutadmin.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\marcar.php <-- NOVOSABER /public_html/admin marcar.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\opendir.php <-- NOVOSABER /public_html/admin opendir.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\pagina.php <-- NOVOSABER /public_html/admin pagina.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html <-- NOVOSABER /public_html/admin topo.html
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.php <-- NOVOSABER /public_html/admin topo.php
+2005.11.08 15:41 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\ver_faleconosco.php <-- NOVOSABER /public_html/admin ver_faleconosco.php
+2005.11.09 22:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\admin.php --> ftp.novosaber.com /public_html/admin admin.php
+2005.11.09 22:56 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\topo.html --> ftp.novosaber.com /public_html/admin topo.html
+2005.11.09 23:25 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php --> ftp.novosaber.com /public_html/admin controle_noticia.php
+2005.11.10 21:39 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php <-- NOVOSABER /public_html/admin alterar_noticia.php
+2005.11.10 21:39 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\controle_noticia.php <-- NOVOSABER /public_html/admin controle_noticia.php
+2005.12.15 20:06 B C:\Documents and Settings\JOSÉ IVAN\Meus documentos\mehelp\admin\alterar_noticia.php --> ftp.novosaber.com /public_html/admin alterar_noticia.php
+2007.01.07 20:50 B C:\nr\NR-vidros\admin\admin.php --> 67.15.48.146 /public_html/admin admin.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_downloads.php --> 67.15.48.146 /public_html/admin alterar_downloads.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_facul.php --> 67.15.48.146 /public_html/admin alterar_facul.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_facul_db.php --> 67.15.48.146 /public_html/admin alterar_facul_db.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_imagem.php --> 67.15.48.146 /public_html/admin alterar_imagem.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_imagem_db.php --> 67.15.48.146 /public_html/admin alterar_imagem_db.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_minhas_imagens.php --> 67.15.48.146 /public_html/admin alterar_minhas_imagens.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_minhas_imagens_db.php --> 67.15.48.146 /public_html/admin alterar_minhas_imagens_db.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_noticia.php --> 67.15.48.146 /public_html/admin alterar_noticia.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_usuario.php --> 67.15.48.146 /public_html/admin alterar_usuario.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\alterar_usuario_db.php --> 67.15.48.146 /public_html/admin alterar_usuario_db.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\cadastra_facul.php --> 67.15.48.146 /public_html/admin cadastra_facul.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\conecta.php --> 67.15.48.146 /public_html/admin conecta.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\confirmar_loginadm.php --> 67.15.48.146 /public_html/admin confirmar_loginadm.php
+2007.01.19 21:01 B C:\nr\NR-vidros\admin\controle_coluna.php --> 67.15.48.146 /public_html/admin controle_coluna.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_concursos.php --> 67.15.48.146 /public_html/admin controle_concursos.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_cursos.php --> 67.15.48.146 /public_html/admin controle_cursos.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_downloads.php --> 67.15.48.146 /public_html/admin controle_downloads.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_facul.php --> 67.15.48.146 /public_html/admin controle_facul.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_faleconosco.php --> 67.15.48.146 /public_html/admin controle_faleconosco.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_imagens.php --> 67.15.48.146 /public_html/admin controle_imagens.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_links.php --> 67.15.48.146 /public_html/admin controle_links.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_materias.php --> 67.15.48.146 /public_html/admin controle_materias.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_menu.php --> 67.15.48.146 /public_html/admin controle_menu.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_noticia.php --> 67.15.48.146 /public_html/admin controle_noticia.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\controle_usuario.php --> 67.15.48.146 /public_html/admin controle_usuario.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\createthumb.php --> 67.15.48.146 /public_html/admin createthumb.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\enviar_mensagem.php --> 67.15.48.146 /public_html/admin enviar_mensagem.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\error_log --> 67.15.48.146 /public_html/admin error_log
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_coluna.php --> 67.15.48.146 /public_html/admin excluir_coluna.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_concursos.php --> 67.15.48.146 /public_html/admin excluir_concursos.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_cursos.php --> 67.15.48.146 /public_html/admin excluir_cursos.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_downloads.php --> 67.15.48.146 /public_html/admin excluir_downloads.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_facul.php --> 67.15.48.146 /public_html/admin excluir_facul.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_faleconosco.php --> 67.15.48.146 /public_html/admin excluir_faleconosco.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_imagem.php --> 67.15.48.146 /public_html/admin excluir_imagem.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_links.php --> 67.15.48.146 /public_html/admin excluir_links.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_materia.php --> 67.15.48.146 /public_html/admin excluir_materia.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_menu.php --> 67.15.48.146 /public_html/admin excluir_menu.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_minhas_imagens.php --> 67.15.48.146 /public_html/admin excluir_minhas_imagens.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_noticia.php --> 67.15.48.146 /public_html/admin excluir_noticia.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\excluir_usuario.php --> 67.15.48.146 /public_html/admin excluir_usuario.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\foto2.php --> 67.15.48.146 /public_html/admin foto2.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\foto2admin.php --> 67.15.48.146 /public_html/admin foto2admin.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\index.html --> 67.15.48.146 /public_html/admin index.html
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\inserir_coluna.php --> 67.15.48.146 /public_html/admin inserir_coluna.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\inserir_concursos.php --> 67.15.48.146 /public_html/admin inserir_concursos.php
+2007.01.19 21:02 B C:\nr\NR-vidros\admin\inserir_cursos.php --> 67.15.48.146 /public_html/admin inserir_cursos.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\inserir_facul.php --> 67.15.48.146 /public_html/admin inserir_facul.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\inserir_menu.php --> 67.15.48.146 /public_html/admin inserir_menu.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\loginadm.php --> 67.15.48.146 /public_html/admin loginadm.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\logoutadmin.php --> 67.15.48.146 /public_html/admin logoutadmin.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\marcar.php --> 67.15.48.146 /public_html/admin marcar.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\opendir.php --> 67.15.48.146 /public_html/admin opendir.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\pagina.php --> 67.15.48.146 /public_html/admin pagina.php
+2007.01.19 21:03 B C:\nr\NR-vidros\admin\tabelas.txt --> 67.15.48.146 /public_html/admin tabelas.txt
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_downloads.php --> 67.15.48.146 /public_html/admin alterar_downloads.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_facul.php --> 67.15.48.146 /public_html/admin alterar_facul.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_facul_db.php --> 67.15.48.146 /public_html/admin alterar_facul_db.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_imagem.php --> 67.15.48.146 /public_html/admin alterar_imagem.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_imagem_db.php --> 67.15.48.146 /public_html/admin alterar_imagem_db.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_minhas_imagens.php --> 67.15.48.146 /public_html/admin alterar_minhas_imagens.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_minhas_imagens_db.php --> 67.15.48.146 /public_html/admin alterar_minhas_imagens_db.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_noticia.php --> 67.15.48.146 /public_html/admin alterar_noticia.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_usuario.php --> 67.15.48.146 /public_html/admin alterar_usuario.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\alterar_usuario_db.php --> 67.15.48.146 /public_html/admin alterar_usuario_db.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\cadastra_facul.php --> 67.15.48.146 /public_html/admin cadastra_facul.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\conecta.php --> 67.15.48.146 /public_html/admin conecta.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\confirmar_loginadm.php --> 67.15.48.146 /public_html/admin confirmar_loginadm.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_coluna.php --> 67.15.48.146 /public_html/admin controle_coluna.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_concursos.php --> 67.15.48.146 /public_html/admin controle_concursos.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_cursos.php --> 67.15.48.146 /public_html/admin controle_cursos.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_downloads.php --> 67.15.48.146 /public_html/admin controle_downloads.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_facul.php --> 67.15.48.146 /public_html/admin controle_facul.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_faleconosco.php --> 67.15.48.146 /public_html/admin controle_faleconosco.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_imagens.php --> 67.15.48.146 /public_html/admin controle_imagens.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_links.php --> 67.15.48.146 /public_html/admin controle_links.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_materias.php --> 67.15.48.146 /public_html/admin controle_materias.php
+2007.01.19 21:04 B C:\nr\NR-vidros\admin\controle_menu.php --> 67.15.48.146 /public_html/admin controle_menu.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\controle_noticia.php --> 67.15.48.146 /public_html/admin controle_noticia.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\controle_usuario.php --> 67.15.48.146 /public_html/admin controle_usuario.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\createthumb.php --> 67.15.48.146 /public_html/admin createthumb.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\enviar_mensagem.php --> 67.15.48.146 /public_html/admin enviar_mensagem.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\error_log --> 67.15.48.146 /public_html/admin error_log
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_coluna.php --> 67.15.48.146 /public_html/admin excluir_coluna.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_concursos.php --> 67.15.48.146 /public_html/admin excluir_concursos.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_cursos.php --> 67.15.48.146 /public_html/admin excluir_cursos.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_downloads.php --> 67.15.48.146 /public_html/admin excluir_downloads.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_facul.php --> 67.15.48.146 /public_html/admin excluir_facul.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_faleconosco.php --> 67.15.48.146 /public_html/admin excluir_faleconosco.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_imagem.php --> 67.15.48.146 /public_html/admin excluir_imagem.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_links.php --> 67.15.48.146 /public_html/admin excluir_links.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_materia.php --> 67.15.48.146 /public_html/admin excluir_materia.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_menu.php --> 67.15.48.146 /public_html/admin excluir_menu.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_minhas_imagens.php --> 67.15.48.146 /public_html/admin excluir_minhas_imagens.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_noticia.php --> 67.15.48.146 /public_html/admin excluir_noticia.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\excluir_usuario.php --> 67.15.48.146 /public_html/admin excluir_usuario.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\foto2.php --> 67.15.48.146 /public_html/admin foto2.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\foto2admin.php --> 67.15.48.146 /public_html/admin foto2admin.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\index.html --> 67.15.48.146 /public_html/admin index.html
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\inserir_coluna.php --> 67.15.48.146 /public_html/admin inserir_coluna.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\inserir_concursos.php --> 67.15.48.146 /public_html/admin inserir_concursos.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\inserir_cursos.php --> 67.15.48.146 /public_html/admin inserir_cursos.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\inserir_facul.php --> 67.15.48.146 /public_html/admin inserir_facul.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\inserir_menu.php --> 67.15.48.146 /public_html/admin inserir_menu.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\loginadm.php --> 67.15.48.146 /public_html/admin loginadm.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\logoutadmin.php --> 67.15.48.146 /public_html/admin logoutadmin.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\marcar.php --> 67.15.48.146 /public_html/admin marcar.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\opendir.php --> 67.15.48.146 /public_html/admin opendir.php
+2007.01.19 21:05 B C:\nr\NR-vidros\admin\pagina.php --> 67.15.48.146 /public_html/admin pagina.php
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\tabelas.txt --> 67.15.48.146 /public_html/admin tabelas.txt
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\topo.html --> 67.15.48.146 /public_html/admin topo.html
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\topo.php --> 67.15.48.146 /public_html/admin topo.php
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\upload.php --> 67.15.48.146 /public_html/admin upload.php
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\upload2.php --> 67.15.48.146 /public_html/admin upload2.php
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\upload2admin.php --> 67.15.48.146 /public_html/admin upload2admin.php
+2007.01.19 21:06 B C:\nr\NR-vidros\admin\ver_faleconosco.php --> 67.15.48.146 /public_html/admin ver_faleconosco.php
+2007.01.21 10:26 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 10:45 B C:\nr\NR-vidros\admin\confirmar_loginadm.php --> 67.15.48.146 /public_html/admin confirmar_loginadm.php
+2007.01.21 10:46 B C:\nr\NR-vidros\admin\admin.php --> 67.15.48.146 /public_html/admin admin.php
+2007.01.21 10:52 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 10:56 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 10:58 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 10:58 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 11:04 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 11:06 B C:\nr\NR-vidros\admin\controle_minhas_imagens.php --> 67.15.48.146 /public_html/admin controle_minhas_imagens.php
+2007.01.21 11:07 B C:\nr\NR-vidros\admin\excluir_minhas_imagens.php --> 67.15.48.146 /public_html/admin excluir_minhas_imagens.php
+2007.01.21 11:08 B C:\nr\NR-vidros\admin\excluir_minhas_imagens.php --> 67.15.48.146 /public_html/admin excluir_minhas_imagens.php
+2008.02.04 19:26 B C:\SERV-N\www\rn\admin\admin.php <-- RNVIDROS /public_html/admin admin.php
+2008.02.04 19:26 B C:\SERV-N\www\rn\admin\alterar_downloads.php <-- RNVIDROS /public_html/admin alterar_downloads.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_facul.php <-- RNVIDROS /public_html/admin alterar_facul.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_facul_db.php <-- RNVIDROS /public_html/admin alterar_facul_db.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_imagem.php <-- RNVIDROS /public_html/admin alterar_imagem.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_minhas_imagens.php <-- RNVIDROS /public_html/admin alterar_minhas_imagens.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_minhas_imagens_db.php <-- RNVIDROS /public_html/admin alterar_minhas_imagens_db.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_noticia.php <-- RNVIDROS /public_html/admin alterar_noticia.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_usuario.php <-- RNVIDROS /public_html/admin alterar_usuario.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\alterar_usuario_db.php <-- RNVIDROS /public_html/admin alterar_usuario_db.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\cadastra_facul.php <-- RNVIDROS /public_html/admin cadastra_facul.php
+2008.02.04 19:27 B C:\SERV-N\www\rn\admin\conecta.php <-- RNVIDROS /public_html/admin conecta.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\confirmar_loginadm.php <-- RNVIDROS /public_html/admin confirmar_loginadm.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_coluna.php <-- RNVIDROS /public_html/admin controle_coluna.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_concursos.php <-- RNVIDROS /public_html/admin controle_concursos.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_cursos.php <-- RNVIDROS /public_html/admin controle_cursos.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_downloads.php <-- RNVIDROS /public_html/admin controle_downloads.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_facul.php <-- RNVIDROS /public_html/admin controle_facul.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_faleconosco.php <-- RNVIDROS /public_html/admin controle_faleconosco.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_imagens.php <-- RNVIDROS /public_html/admin controle_imagens.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_links.php <-- RNVIDROS /public_html/admin controle_links.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_materias.php <-- RNVIDROS /public_html/admin controle_materias.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_menu.php <-- RNVIDROS /public_html/admin controle_menu.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_minhas_imagens.php <-- RNVIDROS /public_html/admin controle_minhas_imagens.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_noticia.php <-- RNVIDROS /public_html/admin controle_noticia.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\controle_usuario.php <-- RNVIDROS /public_html/admin controle_usuario.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\createthumb.php <-- RNVIDROS /public_html/admin createthumb.php
+2008.02.04 19:28 B C:\SERV-N\www\rn\admin\enviar_mensagem.php <-- RNVIDROS /public_html/admin enviar_mensagem.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\error_log <-- RNVIDROS /public_html/admin error_log
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_coluna.php <-- RNVIDROS /public_html/admin excluir_coluna.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_concursos.php <-- RNVIDROS /public_html/admin excluir_concursos.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_cursos.php <-- RNVIDROS /public_html/admin excluir_cursos.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_downloads.php <-- RNVIDROS /public_html/admin excluir_downloads.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_facul.php <-- RNVIDROS /public_html/admin excluir_facul.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_faleconosco.php <-- RNVIDROS /public_html/admin excluir_faleconosco.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_imagem.php <-- RNVIDROS /public_html/admin excluir_imagem.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_links.php <-- RNVIDROS /public_html/admin excluir_links.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_materia.php <-- RNVIDROS /public_html/admin excluir_materia.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_menu.php <-- RNVIDROS /public_html/admin excluir_menu.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_minhas_imagens.php <-- RNVIDROS /public_html/admin excluir_minhas_imagens.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_noticia.php <-- RNVIDROS /public_html/admin excluir_noticia.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\excluir_usuario.php <-- RNVIDROS /public_html/admin excluir_usuario.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\foto.php <-- RNVIDROS /public_html/admin foto.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\foto2.php <-- RNVIDROS /public_html/admin foto2.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\foto2admin.php <-- RNVIDROS /public_html/admin foto2admin.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\gerador.php <-- RNVIDROS /public_html/admin gerador.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\index.html <-- RNVIDROS /public_html/admin index.html
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\inserir_coluna.php <-- RNVIDROS /public_html/admin inserir_coluna.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\inserir_concursos.php <-- RNVIDROS /public_html/admin inserir_concursos.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\inserir_cursos.php <-- RNVIDROS /public_html/admin inserir_cursos.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\inserir_facul.php <-- RNVIDROS /public_html/admin inserir_facul.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\inserir_menu.php <-- RNVIDROS /public_html/admin inserir_menu.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\loginadm.php <-- RNVIDROS /public_html/admin loginadm.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\logoutadmin.php <-- RNVIDROS /public_html/admin logoutadmin.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\marcar.php <-- RNVIDROS /public_html/admin marcar.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\opendir.php <-- RNVIDROS /public_html/admin opendir.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\pagina.php <-- RNVIDROS /public_html/admin pagina.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\tabelas.txt <-- RNVIDROS /public_html/admin tabelas.txt
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\topo.html <-- RNVIDROS /public_html/admin topo.html
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\topo.php <-- RNVIDROS /public_html/admin topo.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\upload.php <-- RNVIDROS /public_html/admin upload.php
+2008.02.04 19:29 B C:\SERV-N\www\rn\admin\upload2.php <-- RNVIDROS /public_html/admin upload2.php
+2008.02.04 19:30 B C:\SERV-N\www\rn\admin\upload2admin.php <-- RNVIDROS /public_html/admin upload2admin.php
+2008.02.04 19:30 B C:\SERV-N\www\rn\admin\ver_faleconosco.php <-- RNVIDROS /public_html/admin ver_faleconosco.php
+2008.02.20 08:40 B C:\SERV-N\www\rn\admin\confirmar_loginadm.php --> ftp.rnartedefazervasosdevidros.com /public_html/admin confirmar_loginadm.php

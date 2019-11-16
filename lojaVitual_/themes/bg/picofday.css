@@ -1,0 +1,65 @@
+.picofdayauthor {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	background : #F5F5F5;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	font-weight : bold;
+	color : #333333;
+}
+
+.picofdayauthorlink {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	font-weight : bold;
+	background : #F5F5F5;
+	color : #333333;
+	text-decoration : none;
+}
+
+.picofdayauthorlink:HOVER {
+	color : Black;
+	text-decoration : underline;
+}
+
+.picofdaytitle {
+	background : #F5F5F5;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 16px;	
+	font-weight : bold;
+	color : #333333;
+	font-style : italic;
+}
+
+.picofdaydescr {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	background : White;
+	color : #333333;
+}
+
+.picofdayfooter {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #FAFAFA;
+	border-top : 1px solid #333333;
+	border-bottom : 1px solid #333333;
+	font-weight : bold;
+	color : #333333;	
+}
+
+.picofdayfooterlink {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	background : #FAFAFA;
+	font-weight : bold;
+	color : #333333;
+	text-decoration : none;
+}
+
+.picofdayfooterlink:HOVER {
+	color : Black;
+	text-decoration : underline;
+}

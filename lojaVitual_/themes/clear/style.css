@@ -1,0 +1,141 @@
+/* general classes */
+BODY  {
+    font-family: Verdana,arial,helvetica,sans-serif;
+    font-size:11px;
+    color:black;
+	background : #DDEDC7;
+}
+
+A {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:11px;
+	color:blue;
+	text-decoration : none;
+}
+
+A:HOVER {
+    text-decoration: underline;
+    color: red;
+}
+
+TH,TD {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:black;
+	background : #DDEDC7;
+}
+
+HR {
+	border : 1px solid #D3D3D3;
+}
+
+.error {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Red;
+}
+
+.info {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Blue;
+}
+
+/* these are used by modules and core to render text inside tables */
+.centerboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : Black;
+	background-color : transparent;
+}
+
+.sideboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : Black;
+	background-color : transparent;
+}
+
+.plainboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	color : #556B2F;
+    font-weight : bold;
+	background-color : #c4df9b;
+}
+
+.plainboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Black;
+    background-color : transparent;
+}
+
+/* these are used by the theme only - do not use outside theme!*/
+.sideboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : #556B2F;
+	font-weight : bold;
+	background-color : #c4df9b;
+}
+
+.centerboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color : #556B2F;
+	font-weight : bold;
+	background-color : #c4df9b;
+}
+
+.pgprocessed {
+	color: #333333;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.maintable {
+	background-color : #DDEDC7;
+	border : 1px solid #556B2F;
+}
+
+.toppanel {
+	background-color : #c4df9b;
+	border-top : 1px solid #556B2F;
+	border-left : 1px solid #556B2F;
+	border-bottom : 1px solid #556B2F;
+}
+
+.topmenuitem {
+	border-right : 1px solid #556B2F;
+	text-align : center;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+}
+
+.sidepanel {
+	background-color : #c4df9b;
+}
+
+/* user card */
+.userexttable {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+	color : White;
+	background : #333333;
+}
+
+.usertoppanel {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	background-color : #F5F5F5;
+	color : #333333;
+}
+
+.userbottompanel {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	background : #FAFAFA;
+	color : #333333;
+}

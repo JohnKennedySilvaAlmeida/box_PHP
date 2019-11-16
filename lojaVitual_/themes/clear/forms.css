@@ -1,0 +1,22 @@
+/* all forms uses these classes */
+
+.button {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : Blue;
+}
+
+.field_textbox, .field_filebox, .field_listbox, .field_selectbox {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : Blue;
+}
+
+ .field_checkbox {
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+	background : White;
+	color : Blue;
+}

@@ -1,0 +1,117 @@
+/* general classes */
+BODY  {
+    font-family: Verdana,arial,helvetica,sans-serif;
+    font-size:11px;
+    color:black;
+    background : White;
+}
+
+A {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:black;
+	text-decoration : none;
+}
+
+A:HOVER {
+    text-decoration: underline;
+    color: red;
+}
+
+TH,TD {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:black;
+    background-color : White;
+}
+
+HR {
+	border : 1px solid #D3D3D3;
+}
+
+.error {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Red;
+}
+
+.info {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color : Blue;
+}
+
+/* these are used by modules and core to render text inside tables */
+.centerboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Black;
+    background-color : #F5F5F5;
+}
+
+.sideboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Black;
+    background-color : #F5F5F5;
+}
+
+.plainboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Yellow;
+    font-weight : bold;
+    background-color : Blue;
+}
+
+.plainboxtext {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+    color : Black;
+    background-color : White;
+}
+
+/* these are used by the theme only - do not use outside theme!*/
+.sideboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Yellow;
+    font-weight : bold;
+    background-color : Blue;
+}
+
+.centerboxtitle {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 11px;	
+    color : Yellow;
+    font-weight : bold;
+    background-color : Blue;
+}
+
+.pgprocessed {
+	color: #ADADAD;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+/* user card */
+.userexttable {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	color : White;
+	background : #333333;
+}
+
+.usertoppanel {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	background-color : #F5F5F5;
+	color : #333333;
+}
+
+.userbottompanel {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;	
+	background : #FAFAFA;
+	color : #333333;
+}
