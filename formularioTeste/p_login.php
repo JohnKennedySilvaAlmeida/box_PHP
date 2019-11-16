@@ -98,10 +98,12 @@ if (isset($_SESSION["erros"])) {
 
     <div class="center">
         <div class="col s12 m4 l6">
-            <button class="btn waves-effect waves-light color purple darken-2" type="submit" name="action" value="enviar">Cadastrar 
-                <!-- <a href="p_funcoes"></a>  -->
+            <button class="btn waves-effect waves-light color purple darken-2" type="submit" 
+            name="action" value="enviar" id='cads'>Cadastrar 
             </button>
-            <button class="btn waves-effect waves-light color purple darken-2" type="submit" name="action" value="enviar">Login
+            <!-- header("Location: https://www.terra.com.br");?>   -->
+            <button class="btn waves-effect waves-light color purple darken-2" type="submit"
+            name="action" value="enviar">Login
                 <!-- <i class="material-icons right">send</i> --> 
             </button>
         </div>
