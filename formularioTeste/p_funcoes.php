@@ -5,13 +5,13 @@
             $_SESSION["usuario"] = $_COOKIE["usuario"];
             $_SESSION["nome"] = $_COOKIE["nome"];
         }
-        if (!isset($_SESSION["usuario"])) {
-            $_SESSION["erros"]= "Favor efetuar o login";
-            echo    "<script>
-                document.location=\"p_login.php\";
-            </script>";
-            exit;
-        }
+        // if (!isset($_SESSION["usuario"])) {
+        //     $_SESSION["erros"]= "Favor efetuar o login";
+        //     echo    "<script>
+        //         document.location=\"p_login.php\";
+        //     </script>";
+        //     exit;
+        // }
     }
     //Exibir o usuario logado
     function usuario_logado (){

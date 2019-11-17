@@ -35,14 +35,11 @@
         usuario_logado();    
       ?> 
       
-      
-      
-<!-- 
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="p_criptografia.php">Criptografia</a></li>
         <li><a href="p_componentes.php">Componentes</a></li>
         <li><a href="p_logout.php">Sair</a></li>
-    </ul> -->
+    </ul>
 
     </div>
   </nav>
