@@ -19,6 +19,12 @@ if (isset($_SESSION["usuario"])) {
 $usuario = filter_input(INPUT_POST, "usuario",FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 $senha = filter_input(INPUT_POST, "senha",FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
+
+// //teste obs!!!!!!!
+// $nome = filter_input(INPUT_POST, "nome",FILTER_SANITIZE_SPECIAL_CHARS,FILTER_SANITIZE_STRING);
+// $email = filter_input(INPUT_POST, "email",FILTER_SANITIZE_EMAIL);
+// $idade = filter_input(INPUT_POST, "idade",FILTER_SANITIZE_NUMBER_INT);
+
 if (($usuario)&&($senha)){
     //Base de usuario (depois vem o banco de dados);
     $db = [
@@ -77,6 +83,9 @@ if (isset($_SESSION["erros"])) {
     $_SESSION["erros"] = null;
 }
 ?>
+
+
+    <h1 class="center ">Cadastro</h1>
         
     <form action="p_login.php" method="post">
     <div class="container ">
@@ -94,18 +103,37 @@ if (isset($_SESSION["erros"])) {
         </div>
     </div>
 
+    <!-- -------------------------------------------- -->
+
+    <div class="container">
+        <!-- obs!!!! -->
+        <div class="col s12 m4 l6 center-align">
+            <input name="cpf" id="cpf" class="validate" required>
+            <label for="cpf">CPF</label>
+        </div>
+    </div>
+    <div class="container">
+        <!-- obs!!! -->
+        <div class="col s12 m4 l6 center-align">
+            <input name="email" id="email" class="validate" required>
+            <label for="email">E-mail</label>
+        </div>
+    </div>
+
     <br><br>
 
     <div class="center">
-        <div class="col s12 m4 l6">
-            <a href="p_CADASTRO.php"> <!-- OBS -->
+        <div class="col s12 m4 l6">    
+            <a href="p_login.php"> 
                 <button class="btn waves-effect waves-light color purple darken-2" type="submit" 
-                    name="cadastro" value="enviar" id='cads'>Cadastrar
+                    name="cadastro" value="enviar" id='cads'>Voltar
                 </button>
-            </a>    
+            </a> 
+            <!-- <a href="p_home.php">     -->
             <button class="btn waves-effect waves-light color purple darken-2" type="submit"
-                name="action" value="enviar" id='log'>Login
+                name="action" value="enviar" id='log'>Salvar
             </button>
+             <!-- <a href="p_home.php">     -->
         </div>
     </div>
 </div>
