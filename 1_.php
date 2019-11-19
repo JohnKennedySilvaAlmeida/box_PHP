@@ -121,7 +121,7 @@ if(isset($_POST['form']) && empty($_POST['form'])){
 
 <span id="feedback"><?php echo ($return['msg']) ? $return['msg'] : '' ; ?></span>
 
-<form action="" method="post" id="contact">
+ <form action="" method="post" id="contact">  <!-- obs -->
 <input type='hidden' name="form" id="form"value="" />
 
 <input type='text' name="name" id="name" value="<?php echo $name; ?>" placeholder="Nome"/><br/>
