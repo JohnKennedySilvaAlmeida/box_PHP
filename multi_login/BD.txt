@@ -1,0 +1,15 @@
+<!-- Vamos criar um banco de dados chamado  multi_login .
+
+No banco de dados (multi_login) 
+crie uma tabela chamada (users)
+
+com os seguintes campos:
+
+id - int(10)
+username - varchar(100)
+email - varchar(100)
+user_type - varchar(100)
+password - varchar(100)
+
+
+BD -->

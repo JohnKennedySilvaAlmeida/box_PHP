@@ -2,7 +2,7 @@
 include('../functions.php');
 
 if (!isAdmin()) {
-	$_SESSION['msg'] = "You must log in first";
+	$_SESSION['msg'] = "Você deve fazer login primeiro";
 	header('location: ../login.php');
 }
 
@@ -30,10 +30,10 @@ if (isset($_GET['logout'])) {
 </head>
 <body>
 	<div class="header">
-		<h2>Admin - Home Page</h2>
+		<h2>Admin - Home Página</h2>
 	</div>
 	<div class="content">
-		<!-- notification message -->
+		<!--mensagem de notificação-->
 		<?php if (isset($_SESSION['success'])) : ?>
 			<div class="error success" >
 				<h3>
@@ -45,7 +45,7 @@ if (isset($_GET['logout'])) {
 			</div>
 		<?php endif ?>
 
-		<!-- logged in user information -->
+		<!-- informações do usuário logado + imagem -->
 		<div class="profile_info">
 			<img src="../images/admin_profile.png"  >
 
@@ -56,8 +56,9 @@ if (isset($_GET['logout'])) {
 					<small>
 						<i  style="color: #888;">(<?php echo ucfirst($_SESSION['user']['user_type']); ?>)</i> 
 						<br>
-						<a href="home.php?logout='1'" style="color: red;">logout</a>
-                       &nbsp; <a href="create_user.php"> + add user</a>
+						<a href="home.php?logout='1'" style="color: red;">Sair</a>
+                        &nbsp;
+						<a href="create_user.php"> + adicionar usuário</a>      
 					</small>
 
 				<?php endif ?>
@@ -66,6 +67,11 @@ if (isset($_GET['logout'])) {
 	</div>
 </body>
 </html>
+
+
+
+
+
 
 
 

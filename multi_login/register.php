@@ -3,55 +3,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration system PHP and MySQL</title>
+	<title>Sistema de registro</title>
 
     <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
 <div class="header">
-	<h2>Register</h2>
+	<h2>Registro</h2>
 </div>
 <form method="post" action="register.php">
 
     <?php echo display_error(); ?>
 
 	<div class="input-group">
-		<label>Username</label>
+		<label>Nome de usuário</label>
 		<input type="text" name="username" value=" <?php echo $username;?> ">
 	</div>
 	<div class="input-group">
-		<label>Email</label>
+		<label>E-mail</label>
 		<input type="email" name="email" value=" <?php echo $email;?> ">
 	</div>
 	<div class="input-group">
-		<label>Password</label>
+		<label>Senha</label>
 		<input type="password" name="password_1">
 	</div>
 	<div class="input-group">
-		<label>Confirm password</label>
+		<label>Confirmar Senha</label>
 		<input type="password" name="password_2">
 	</div>
 	<div class="input-group">
-		<button type="submit" class="btn" name="register_btn">Register</button>
+		<button type="submit" class="btn" name="register_btn">Registo</button>
 	</div>
-	<p>
-		Already a member? <a href="login.php">Sign in</a>
-	</p>
+	<!-- <p>
+		já é um membro? <a href="login.php">Assinar em</a>
+	</p>                        OBS!!!!   Pgina register -> erro  ??? -->
 </form>
 </body>
 </html>
 
 
 
-<!-- Vamos criar um banco de dados chamado  multi_login . No banco de dados multi_login, 
-crie uma tabela chamada users com os seguintes campos:
-
-id - int (10)
-nome de usuário - varchar (100)
-email - varchar (100)
-user_type - varchar (100)
-senha - varchar (100) 
-
-
-BD -->

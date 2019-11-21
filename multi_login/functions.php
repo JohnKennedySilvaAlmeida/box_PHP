@@ -4,69 +4,69 @@ session_start();
 // connect to database
 $db = mysqli_connect('localhost', 'root', '123456', 'multi_login'); // OBS!!! criar ainda BD
 
-// variable declaration
+// declaração de variável
 $username = "";
 $email    = "";
 $errors   = array(); 
 
-// call the register() function if register_btn is clicked
+// chame a função register () se clicar em register_btn
 if (isset($_POST['register_btn'])) {
 	register();
 }
 
-// REGISTER USER
+// REGISTRAR USUÁRIO
 function register(){
-	// call these variables with the global keyword to make them available in function
+	// chame essas variáveis ​​com a palavra-chave global para disponibilizá-las na função
 	global $db, $errors, $username, $email;
 
-	// receive all input values from the form. Call the e() function
-    // defined below to escape form values
+	//recebe todos os valores de entrada do formulário. Chame a função e ()
+    // definido abaixo para escapar dos valores do formulário
 	$username    =  e($_POST['username']);
 	$email       =  e($_POST['email']);
 	$password_1  =  e($_POST['password_1']);
 	$password_2  =  e($_POST['password_2']);
 
-	// form validation: ensure that the form is correctly filled
+	// validação do formulário: verifique se o formulário foi preenchido corretamente
 	if (empty($username)) { 
-		array_push($errors, "Username is required"); 
+		array_push($errors, "Nome de usuário é obrigatório"); 
 	}
 	if (empty($email)) { 
-		array_push($errors, "Email is required"); 
+		array_push($errors, "E-mail é obrigatório"); 
 	}
 	if (empty($password_1)) { 
-		array_push($errors, "Password is required"); 
+		array_push($errors, "Senha requerida"); 
 	}
 	if ($password_1 != $password_2) {
-		array_push($errors, "The two passwords do not match");
+		array_push($errors, "As duas senhas não combinam");
 	}
 
-	// register user if there are no errors in the form
+	// registra o usuário se não houver erros no formulário
 	if (count($errors) == 0) {
-		$password = md5($password_1);//encrypt the password before saving in the database
+		$password = md5($password_1);// criptografa a senha antes de salvar no banco de dados
 
 		if (isset($_POST['user_type'])) {
 			$user_type = e($_POST['user_type']);
 			$query = "INSERT INTO users (username, email, user_type, password) 
 					  VALUES('$username', '$email', '$user_type', '$password')";
 			mysqli_query($db, $query);
-			$_SESSION['success']  = "New user successfully created!!";
+			$_SESSION['success']  = "Novo usuário criado com sucesso !!";
 			header('location: home.php');
 		}else{
 			$query = "INSERT INTO users (username, email, user_type, password) 
 					  VALUES('$username', '$email', 'user', '$password')";
 			mysqli_query($db, $query);
 
-			// get id of the created user
+			// obtém o ID do usuário criado
 			$logged_in_user_id = mysqli_insert_id($db);
 
-			$_SESSION['user'] = getUserById($logged_in_user_id); // put logged in user in session
-			$_SESSION['success']  = "You are now logged in";
+			$_SESSION['user'] = getUserById($logged_in_user_id); // coloca o usuário logado na sessão
+			$_SESSION['success']  = "Agora você está logado";
 			header('location: index.php');				
 		}
 	}
 }
 
-// return user array from their id
+// retorna a matriz do usuário de seu ID
 function getUserById($id){
 	global $db;
 	$query = "SELECT * FROM users WHERE id=" . $id;
@@ -82,6 +82,7 @@ function e($val){
 	return mysqli_real_escape_string($db, trim($val));
 }
 
+// -------------------------
 function display_error() {
 	global $errors;
 
@@ -104,7 +105,7 @@ function isLoggedIn()
 	}
 }
 
-// log user out if logout button clicked
+// desconecta o usuário se o botão logout tiver clicado
 if (isset($_GET['logout'])) {
     
     session_destroy();
@@ -113,7 +114,7 @@ if (isset($_GET['logout'])) {
 	header("location: login.php");
 }
 
-// call the login() function if register_btn is clicked
+// chame a função login () se clicar em register_btn
 if (isset($_POST['login_btn'])) {
 	login();
 }
@@ -124,41 +125,41 @@ if (isset($_POST['login_btn'])) {
 function login(){
 	global $db, $username, $errors;
 
-	// grap form values
+	// valores do formulário grap
 	$username = e($_POST['username']);
 	$password = e($_POST['password']);
 
-	// make sure form is filled properly
+	// verifique se o formulário foi preenchido corretamente
 	if (empty($username)) {
-		array_push($errors, "Username is required");
+		array_push($errors, "Nome de usuário é requerido");
 	}
 	if (empty($password)) {
-		array_push($errors, "Password is required");
+		array_push($errors, "Senha requerida");
 	}
 
-	// attempt login if no errors on form
+	// tenta logar se não houver erros no formulário
 	if (count($errors) == 0) {
 		$password = md5($password);
 
 		$query = "SELECT * FROM users WHERE username='$username' AND password='$password' LIMIT 1";
 		$results = mysqli_query($db, $query);
 
-		if (mysqli_num_rows($results) == 1) { // user found
-			// check if user is admin or user
+		if (mysqli_num_rows($results) == 1) { // usuário encontrado
+			// verifica se o usuário é administrador ou usuário
 			$logged_in_user = mysqli_fetch_assoc($results);
 			if ($logged_in_user['user_type'] == 'admin') {
 
 				$_SESSION['user'] = $logged_in_user;
-				$_SESSION['success']  = "You are now logged in";
+				$_SESSION['success']  = "Agora você está logado";
 				header('location: admin/home.php');		  
 			}else{
 				$_SESSION['user'] = $logged_in_user;
-				$_SESSION['success']  = "You are now logged in";
+				$_SESSION['success']  = "Agora você está logado";
 
 				header('location: index.php');
 			}
 		}else {
-			array_push($errors, "Wrong username/password combination");
+			array_push($errors, "Combinação de nome de usuário / senha incorreta");
 		}
 	}
 }

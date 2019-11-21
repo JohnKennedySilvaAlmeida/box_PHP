@@ -26,9 +26,9 @@
 		<div class="input-group">
 			<button type="submit" class="btn" name="login_btn">Login</button>
 		</div>
-		<p>
+		<!-- <p>
         Ainda não é menbro? <a href="register.php">Cadastrar</a>
-		</p>
+		</p>                   OBS!!!!  -->
 	</form>
 </body>
 </html>

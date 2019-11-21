@@ -15,10 +15,10 @@
 </head>
 <body>
 	<div class="header">
-		<h2>Home Page</h2>
+		<h2>Home Pagina</h2>
 	</div>
 	<div class="content">
-		<!-- notification message -->
+		<!-- notifica msge -->
 		<?php if (isset($_SESSION['success'])) : ?>
 			<div class="error success" >
 				<h3>
@@ -29,7 +29,7 @@
 				</h3>
 			</div>
 		<?php endif ?>
-		<!-- logged in user information -->
+		<!-- informações do usuário logado -->
 		<div class="profile_info">
 			<img src="images/user_profile.png"  >
 
@@ -40,7 +40,7 @@
 					<small>
 						<i  style="color: #888;">(<?php echo ucfirst($_SESSION['user']['user_type']); ?>)</i> 
 						<br>
-						<a href="index.php?logout='1'" style="color: red;">logout</a>
+						<a href="index.php?logout='1'" style="color: red;">Sair</a>
 					</small>
 
 				<?php endif ?>
@@ -49,6 +49,17 @@
 	</div>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- https://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database -->
