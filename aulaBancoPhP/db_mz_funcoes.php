@@ -1,13 +1,13 @@
-<?php function exibir_card($nome, $endereco){ ?>
+<?php function exibir_card($nome, $endereco){ ?>            <!--    bd = nome  e endereço   -->
 
     <div class="col s12 m4 l3">
       <div class="card">
         <div class="card-image">
-          <img src="http://lorempixel.com/640/480/transport">
-          <span clas="card-title"><?= $nome ?></span>
-        </div>
+           <img src="http://lorempixel.com/640/480/transport">   <!--    imagens  -->
+          <span clas="card-title"><?= $nome ?></span>                <!--    card  , bd = nome  -->
+        </div>           
         <div class="card-content">
-          <p><?= $endereco ?></p>
+          <p><?= $endereco ?></p>    <!--    imagem  , bd   -->
         </div>
         <div class="card-action">
           <a href="#">This is a link</a>

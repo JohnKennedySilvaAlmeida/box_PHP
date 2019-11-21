@@ -8,13 +8,16 @@
   $stmt->bindValue(':ini', 0, PDO::PARAM_INT);
   
   if($stmt->execute()) {
+
       $resultado = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
       foreach ($resultado as $campo) {
         //echo $campo['cod'] . " - " . $campo['categoria']. '<br>';
         $cod = $campo['cod'];
         $categoria = $campo['categoria'];
+
         ?>
-        <a href="db_mz_categoria.php?cat=<?= $cod ?>" class="collection-item"><?= $categoria ?></a>
+           <a href="db_mz_categoria.php?cat=<?= $cod ?>" class="collection-item"><?= $categoria ?></a>     <!--  categoria, coleção = BD  -->
         <?php
       }
   } else {

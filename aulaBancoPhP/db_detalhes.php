@@ -4,12 +4,13 @@ require_once("db_conectar.php");
 $cod = filter_input(INPUT_GET, "cod",FILTER_SANITIZE_NUMBER_INT);
 
 if ($cod >=1) {
-    $sql = "SELECT * FROM usuarios WHERE cod = :cod";
+    $sql = "SELECT * FROM usuario WHERE cod = :cod";
 
     $stmt = $conexao->prepare($sql);
     $stmt->bindValue(':cod', $cod);
     
     if($stmt->execute()) {
+        
         $resultado = $stmt->fetchall(PDO::FETCH_ASSOC);
         if ($stmt->rowCount()) {
             foreach ($resultado as $campo) {

@@ -1,31 +1,31 @@
 <?php
-require("inc_cabecalho.php");
-require("db_conectar.php");
-require("db_mz_funcoes.php");
+    require("inc_cabecalho.php");
+    require("db_conectar.php");
+    require("db_mz_funcoes.php");
 ?>
-
-<!-- home -->
 
 
 <div class="container">
     <div class="row">
-        <div class="col s12 m3">
+            <div class="col s12 m3">  <!-- latera site -  menu,,, todos produtos e tipos  -->
             <aside>
                 <div class="collection">
                     <?php 
-                        include("db_mz_menulateral.php");
+                        include("db_mz_menulateral.php");   // função include -- require_   melhor 
                     ?>    
                 </div>
             </aside>
         </div>
         <div class="col s12 m9">
             <section class="row">
-                <?php cards_principal(); ?>
+                <?php cards_principal(); ?>    <!-- conecta, filtra = cod categorias  -->
             </section>
         </div>
     </div>
 </div>
 
 <?php
-require("inc_rodape.php");
+    require("inc_rodape.php");   
 ?>
+
+<!-- rodape  -->

@@ -1,7 +1,9 @@
 <?php 
-require_once("db_conectar.php");
-require("inc_cabecalho.php");
-require("db_mz_funcoes.php");
+require_once("db_conectar.php");   // bd
+
+require("inc_cabecalho.php");    // cabecalho 
+
+require("db_mz_funcoes.php");  // funcoes
 
 
 $sql = "SELECT * FROM usuario LIMIT :qtd OFFSET :ini";
@@ -18,7 +20,7 @@ if($stmt->execute()) {
     //require("db_mz_menulateral.php");
     foreach ($resultado as $campo) {
     //echo $campo['cod'] . " - " . $campo['nome']. '<br>';
-        exibir_card($campo['nome'], $campo['end']);
+        exibir_card($campo['nome'], $campo['end']);          /// exibe card!!!!!   nome e endereco 
     }
     echo "</div>";
     echo "</div>";
@@ -27,5 +29,5 @@ if($stmt->execute()) {
 }
 $conexao=null; // fechar conexão;
 
-require("inc_rodape.php");
+require("inc_rodape.php");  // rodapé 
 ?>
