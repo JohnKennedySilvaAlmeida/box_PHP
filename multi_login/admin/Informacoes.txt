@@ -1,0 +1,7 @@
+1 Implementar Banco - BD.txt
+
+2 para criar e logar usar creat_user.php e home.php = ADMIN
+
+Obs!! Mesmas logica d apra usar em criar e cadastrar novos produtos 
+
+3 arquivo register.php esta com um erro de logica - nao precisa usar   
