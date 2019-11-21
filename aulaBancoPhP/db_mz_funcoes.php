@@ -1,16 +1,16 @@
-<?php function exibir_card($nome, $endereco){ ?>            <!--    bd = nome  e endereço   -->
+<?php function exibir_card($nome, $endereco){ ?>
 
     <div class="col s12 m4 l3">
       <div class="card">
         <div class="card-image">
-           <img src="http://lorempixel.com/640/480/transport">   <!--    imagens -- OBS -->
-          <span clas="card-title"><?= $nome ?></span>                <!--    card  , bd = nome  -->
-        </div>           
+          <img src="http://lorempixel.com/640/480/transport">
+          <span clas="card-title"><?= $nome ?></span>
+        </div>
         <div class="card-content">
-          <p><?= $endereco ?></p>    <!--    imagem  , bd   -->
+          <p><?= $endereco ?></p> 
         </div>
         <div class="card-action">
-          <a href="#">This is a link - testeeeee</a>
+          <a href="#">Teste</a>
         </div>
       </div>
     </div>
@@ -18,7 +18,7 @@
 <?php } ?>
 
 <?php 
-  function cards_principal(){   // Menu
+  function cards_principal(){
 
     require("db_conectar.php");
 
@@ -30,17 +30,17 @@
       $stmt = $conexao->prepare($sql);
       $stmt->bindValue(':cat', $cat, PDO::PARAM_INT);
     }else{
-      $sql = "SELECT * FROM usuario LIMIT :qtd OFFSET :ini"; // limite
+      $sql = "SELECT * FROM usuario LIMIT :qtd OFFSET :ini";
+
       $stmt = $conexao->prepare($sql);
     }
-    $stmt->bindValue(':qtd', 10, PDO::PARAM_INT); // qunatidade
+    $stmt->bindValue(':qtd', 10, PDO::PARAM_INT);
     $stmt->bindValue(':ini', 0, PDO::PARAM_INT);
-    
+
     if($stmt->execute()) {
         $resultado = $stmt->fetchAll(PDO::FETCH_ASSOC);
         echo '<div class="container">';
         echo '<div class="row">';
-
         foreach ($resultado as $campo) {
             exibir_card($campo['nome'], $campo['end']);
         }
@@ -54,4 +54,37 @@
     $stmt=null;
     $resultado=null;
   } 
+
+  function html_select_categoria($valor_padrao){
+    require("db_conectar.php");
+
+    $sql = "SELECT * FROM categoria LIMIT :qtd OFFSET :ini";
+
+    $stmt = $conexao->prepare($sql);
+    $stmt->bindValue(':qtd', 10, PDO::PARAM_INT);
+    $stmt->bindValue(':ini', 0, PDO::PARAM_INT);
+    
+    if($stmt->execute()) {
+        $resultado = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        echo "<select name=\"categoria\">";
+        echo "<option value=\"\">Selecionar</option>";   
+
+        foreach ($resultado as $campo) {
+          $cod = $campo['cod'];
+          $categoria = $campo['categoria'];
+          
+          if ($cod == $valor_padrao){
+            echo "<option value=\"$cod\" selected>$categoria</option>";  
+          }else{
+            echo "<option value=\"$cod\">$categoria</option>";  
+          }
+        }
+        echo "</select>";
+    } else {
+        echo "Erro na consulta: " . $stmt->errorCode();
+    }
+      //$conexao=null; // fechar conexão; 
+      $stmt=null;
+      $resultado=null;
+  }
 ?>

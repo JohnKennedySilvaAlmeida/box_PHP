@@ -1,5 +1,5 @@
 <?php 
-  //require_once("db_conectar.php");
+  // require_once("db_conectar.php");               obs!!!!
   
   $sql = "SELECT * FROM categoria LIMIT :qtd OFFSET :ini";
   
