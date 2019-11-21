@@ -20,7 +20,7 @@ if($stmt->execute()) {
     //require("db_mz_menulateral.php");
     foreach ($resultado as $campo) {
     //echo $campo['cod'] . " - " . $campo['nome']. '<br>';
-        exibir_card($campo['nome'], $campo['end']);          /// exibe card!!!!!   nome e endereco 
+        exibir_card($campo['nome'], $campo['end']);          /// exibe card  !!!!!   nome e endereco 
     }
     echo "</div>";
     echo "</div>";

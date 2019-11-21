@@ -17,7 +17,8 @@
         $categoria = $campo['categoria'];
 
         ?>
-           <a href="db_mz_categoria.php?cat=<?= $cod ?>" class="collection-item"><?= $categoria ?></a>     <!--  categoria, coleção = BD  -->
+           <a href="db_mz_categoria.php?cat=<?= $cod ?>" class="collection-item"><?= $categoria ?></a>  
+                     <!--  Pega _ categoria, coleção = BD  -->
         <?php
       }
   } else {

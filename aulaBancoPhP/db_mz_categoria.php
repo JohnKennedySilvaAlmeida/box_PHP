@@ -11,14 +11,14 @@
             <aside>
                 <div class="collection">
                     <?php 
-                        include("db_mz_menulateral.php");   // função include -- require_   melhor 
+                        include("db_mz_menulateral.php");   // função include -- require_   melhor !!!!
                     ?>    
                 </div>
             </aside>
         </div>
         <div class="col s12 m9">
             <section class="row">
-                <?php cards_principal(); ?>    <!-- conecta, filtra = cod categorias  -->
+                <?php cards_principal(); ?>    <!-- conecta, filtra = cod , categorias  -->
             </section>
         </div>
     </div>

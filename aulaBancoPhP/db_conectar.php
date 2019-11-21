@@ -2,9 +2,9 @@
 <?php
 
     $DB_HOST="localhost";
-    $DB_NAME="site";
+    $DB_NAME="site"; // nome BD
     $DB_USER="root";
-    $DB_PASS="123456";
+    $DB_PASS="123456"; // Senha BD
 
     $DNS = "mysql:host=$DB_HOST;dbname=$DB_NAME";
 

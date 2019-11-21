@@ -3,10 +3,12 @@
     Nome: <input type="text" name="nome">
     <input type="submit" value="Enviar" name="enviar">
 
-</form>
+    <!-- formulario metodo Post -->
+
+</form>   
 
 <?php 
-    require_once("db_conectar.php");
+    require_once("db_conectar.php"); //  função BD
 
     $nome = filter_input(INPUT_POST, "nome",FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 
@@ -30,11 +32,12 @@
 
             foreach ($resultado as $campo) {
                 echo $campo['cod'] . " - " . $campo['nome'];
-                echo " <a href=db_detalhes.php?cod=". $campo['cod'] . "> [Detalhe]</a><br>";  // categoria 
-            }
+                echo " <a href=db_detalhes.php?cod=". $campo['cod'] . "> [Detalhe]</a><br>";  // categoria  
+            }                  // DB-Detalhes d produto
         }else{
             echo "<br>Registro nao encontrado!<br>";
             echo '<a href="db_procurar.php">Exibir todos os resultados</a>';
+                      //procurar 
         }
     } else {
         echo "Erro: " . $stmt->errorCode();
