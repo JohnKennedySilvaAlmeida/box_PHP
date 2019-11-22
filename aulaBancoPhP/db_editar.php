@@ -1,12 +1,16 @@
+<script>
+    function mensagem(texto) {  
+        alert(texto);    
+        location.href='db_completo.php';
+    }
+</script>
 <?php 
 require_once("db_conectar.php");
 require("db_mz_funcoes.php"); 
-
 // Recebe o cod por GET e exibe o formulario;
 $cod = filter_input(INPUT_GET, "cod",FILTER_SANITIZE_NUMBER_INT);
-
 if (($cod >= 1) && (isset($cod))) {
-    $sql = "SELECT * FROM usuario WHERE cod = :cod";
+    $sql = "SELECT * FROM usuarios WHERE cod = :cod";
     $stmt = $conexao->prepare($sql);
     $stmt->bindValue(':cod', $cod);
     if($stmt->execute()) {
@@ -44,19 +48,27 @@ if (($cod >= 1) && (isset($cod))) {
         require("db_conectar.php");
     //    UPDATE `usuarios` SET `nome` = 'bruna pereira gg', `end` = 
         // 'testes e testes e testes gg', `cod_categoria` = '2' WHERE `usuarios`.`cod` = 4; 
-        $sql = "UPDATE usuario SET nome = :nome, end = :end, cod_categoria = :cat WHERE cod = :cod";
+        $sql = "UPDATE usuarios SET nome = :nome, end = :end, cod_categoria = :cat WHERE cod = :cod";
         $stmt = $conexao->prepare($sql);
         $stmt->bindValue(':cod', $cod);
         $stmt->bindValue(':nome', $nome);
         $stmt->bindValue(':end', $end);
         $stmt->bindValue(':cat', $cat);
         if($stmt->execute()) {
-            // echo "Registro atualizado com sucesso!<br>";
-            // echo "<a href=\"db_completo.php\">Voltar</a>";
-            header('Location: db_completo.php?atualizado=1');
-
+            //echo "Registro atualizado com sucesso!<br>";
+            //echo "<a href=\"db_completo.php\">Voltar</a>";
+            //header("Location: db_completo.php?atualizado=1");
+        ?>
+            <script>
+                mensagem("Registro editado com sucesso!");
+            </script>
+        <?php
         } else {
-            echo "Erro: " . $stmt->errorCode();
+        ?>
+            <script>
+                mensagem("Erro ao editar o registro!");
+            </script>
+        <?php
         }    
     }    
 }
