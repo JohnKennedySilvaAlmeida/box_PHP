@@ -1,1 +1,0 @@
-document.write("Meu segundo olar mundo!!");
