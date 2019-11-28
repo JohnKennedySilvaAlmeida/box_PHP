@@ -1,3 +1,6 @@
+
+
+
 <!-- Exibir mensagem em javascript -->
 <script>
     function mensagem(texto) {  
@@ -28,10 +31,14 @@ if (($cod >= 1) && (isset($cod))) {
                 $end=$campo['end'];
                 $cat=$campo['cod_categoria']
                 ?>
+
+
+                <h1 class="black">Editar</h1>
+
                 <form action="db_editar.php" method="post">
                     <input type="hidden" name="cod" value="<?= $cod ?>">
                     Nome: <input type="text" name="nome" value="<?= $nome ?>"><br>
-                    End: <input type="text" name="end" value="<?= $end ?>"><br>
+                    Descrição: <input type="text" name="end" value="<?= $end ?>"><br>
                     Cat: <?php html_select_categoria($cat); ?><br>
                     <input type="submit" value="Atualizar" name="Atualizar">
                 </form>

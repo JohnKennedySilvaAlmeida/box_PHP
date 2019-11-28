@@ -1,20 +1,23 @@
-<footer class="page-footer">
+<footer class="page-footer black">
     <div class="container">
         <div class="row">
             <div class="col s12 m8 l6">
-                <h5 class="white-text">First Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">Vida PHP</h5>
+                <p class="grey-text text-lighten-4">O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor) é
+                 uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o 
+                 desenvolvimento web e que pode ser embutida dentro do HTML. </p>
             </div>
             <div class="col s12 m4 l6">
-                <h5 class="white-text">Second Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">Mysql</h5>
+                <p class="grey-text text-lighten-4">O MySQL é um sistema de gerenciamento de banco de dados (SGBD), 
+                que utiliza a linguagem SQL (Linguagem de Consulta Estruturada)</p>
             </div>
         </div>
     </div>
     <div class="footer-copyright">
         <div class="container">
-            © 2016 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            © 2019 Copyright 
+            <!-- <a class="grey-text text-lighten-4 right" href="#!">More Links</a> -->
         </div>
     </div>
 </footer>

@@ -1,8 +1,9 @@
 
 <?php 
+  
   include("db_mz_funcoes.php");
-  validar_sessao();
-  usuario_logado();
+//   validar_sessao();
+//   usuario_logado();
 ?>  
 
 <!-- Faz a validação se podemos excluir o registro -->
@@ -14,12 +15,60 @@
     }
 </script>
 
-<form action="db_procurar.php" method="post">
-    Nome: <input type="text" name="nome">
+
+
+<!DOCTYPE html>
+  <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Blog</title>
+
+        <!-- Google Icon Font -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+        <!-- materialize.css -->
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+        <!-- CSS Customizado -->
+        <link rel="stylesheet" href="css/customizado.css">
+        
+        <!-- viewport para mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+
+
+
+<nav>
+    <div class="nav-wrapper black">
+      <a href="#!" class="brand-logo center ">Blog / Adm</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+
+      <ul class="right hide-on-med-and-down">
+        <li><a href="home.php">Sair</a></li>
+        <!-- <li><a href="badges.html">Components</a></li>
+        <li><a href="collapsible.html">Javascript</a></li>
+        <li><a href="mobile.html">Mobile</a></li> -->
+      </ul>
+    </div>
+</nav>
+
+
+
+
+<form class="container" action="db_procurar.php" method="post">
+    Procurar arquivo (Nome): <input type="text" name="nome">
     <input type="submit" value="Enviar" name="enviar">
 </form>
 
 <?php 
+
+
+
+
+
+
 
 
 echo '<br><a href="db_incluir.php">[Novo Registro]</a> <br>';
@@ -60,4 +109,7 @@ if($stmt->execute()) {
 }
 
 
+include("inc_rodape.php");
 
+
+?>

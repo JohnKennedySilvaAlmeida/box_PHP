@@ -3,6 +3,7 @@
 require_once("db_conectar.php");
 
 require("inc_cabecalho.php");
+
 require("db_mz_funcoes.php");
 
 $sql = "SELECT * FROM usuarios LIMIT :qtd OFFSET :ini";
@@ -29,3 +30,4 @@ $conexao=null; // fechar conexão;
 
 require("inc_rodape.php");
 ?>
+

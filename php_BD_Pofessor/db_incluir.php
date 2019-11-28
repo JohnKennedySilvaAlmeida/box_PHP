@@ -1,11 +1,25 @@
 <?php 
   include("db_mz_funcoes.php");
-  validar_sessao();
-  usuario_logado();
+//   validar_sessao();
+//   usuario_logado();
+
+
 ?> 
+
+
+
+
+
+<h1 class="black">Adicionar</h1>
+
+
+
+
+
+
 <form action="db_incluir.php" method="post">
     Nome: <input type="text" name="nome"><br>
-    End: <input type="text" name="end"><br>
+    Descrição: <input type="text" name="end"><br>
     Cat: <?php html_select_categoria(0); ?><br>
     <input type="submit" value="Enviar" name="enviar">
 </form>

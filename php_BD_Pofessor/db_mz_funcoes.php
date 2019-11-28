@@ -2,14 +2,14 @@
     <div class="col s12 m4 l3">
       <div class="card">
         <div class="card-image">
-          <img src="http://lorempixel.com/640/480/transport">
+          <img src="http://lorempixel.com/640/480/business">
           <span clas="card-title"><?= $nome ?></span>
         </div>
         <div class="card-content">
           <p><?= $endereco ?></p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <!-- <a href="#">This is a link</a> -->
         </div>
       </div>
     </div>
