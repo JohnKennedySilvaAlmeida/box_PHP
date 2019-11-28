@@ -15,10 +15,37 @@
         
         <!-- viewport para mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+      <style>
+        iframe{
+          position:absolute;
+          top: 90px;
+          left: 10px;
+        }
+        .f1{
+          position:absolute;
+          top: 290px;
+          left: 10px;
+        }
+        .f2{
+          position:absolute;
+          top: 490px;
+          left: 10px;
+        }
+        .f3{
+          position:absolute;
+          top: 690px;
+          left: 10px;
+        }
+        
+
+      </style> 
+
     </head>
 
-    <body>
-
+<body>  
 
 
 <nav>
@@ -61,6 +88,20 @@
   </div>
             
     <br><br>
+
+
+    <iframe  src="https://netsupport.com.br/blog/o-que-e-ti/" 
+    frameborder="5"></iframe>
+
+    <iframe class='f1' src="https://www.maisdados.com.br/o-que-o-profissional-de-ti-faz-entenda-de-uma-vez-por-todas/" 
+    frameborder="5"></iframe>
+
+    <iframe class='f2' src="http://www.b3.com.br/pt_br/" 
+    frameborder="5"></iframe>
+
+    <iframe class='f3' src="https://olhardigital.com.br/" 
+    frameborder="5"></iframe>
+
 
 
   <!-- <ul class="sidenav" id="mobile-demo">
