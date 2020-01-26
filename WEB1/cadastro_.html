@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"></script> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+			crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" 
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" 
+            crossorigin="anonymous"></script>
+
+	<title>T</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <script>
+		var prevScrollpos = window.pageYOffset;
+
+			window.onscroll = function () {
+				var currentScrollPos = window.pageYOffset;
+				if (prevScrollpos > currentScrollPos) {
+					document.getElementById("navbar").style.top = "0";
+				} else {
+					document.getElementById("navbar").style.top = "-80px";
+				}
+				prevScrollpos = currentScrollPos;
+			} 
+    </script>
+    
+</head>	
+
+
+<body style="background: black;">
+     <!-- nave bar -->
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="index_.html">Bem Vindo<span class="sr-only">(current)</span></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+  <br><br>
+	<!-- <form class="container" action="cad.php" method="POST"> -->
+    <h5 class="text-center">Cadastrar</h5>
+    <!-- formulario -->
+    <div class="form-group container">
+        <label for="nome">Nome</label>
+        <input type="text" class="form-control" id="nome2" name="nomeC" aria-describedby="nomehellp" required 
+            placeholder =" Minimo 5 caracteres">
+        <!-- <small id="idnome" class="form-text text-muted"></small> -->
+    </div>
+    <div class="form-group container">
+        <label for="usuario">Usuario</label>
+        <input type="text" class="form-control" id="usuario2" name="usuarioC" aria-describedby="usuhellp" required
+            placeholder =" Minimo 2 caracteres">
+        <!-- <small id="idusuario" class="form-text text-muted"></small> -->
+    </div>
+    <div class="form-group container">
+        <label for="exampleInputPassword1">Senha</label>
+        <input type="password" class="form-control" id="senha2" name="senhaC" required 
+            placeholder = " Minimo 5 caracteres">
+    </div>
+    <div class="container">
+        <button type="submit" id="btnLogin" class="btn btn-dark" onclick="validarCadastro()">Login</button>	
+    </div>
+	<!-- </form> -->
+    <marquee scrollDelay=150><font color=#00FF7F>!!! Por favor, Preencher todos os campos !!!</em></font></marquee>
+    
+    <!-- rodape -->
+    <br><br><br><br>
+	<div class="card text-center">
+		<div class="card-body">
+			<h4 class="card-title">Jk_System</h4>
+		</div>
+	</div>
+
+</body>
+
+</html>
+<!-- validar -->
+<script> // js / jquey / ajax
+    function validarCadastro(){
+        var nomeC    = $('#nome2').val();
+        var usuarioC = $('#usuario2').val();
+        var senhaC   = $('#senha2').val();
+
+        var regex    = /[^\w\s]/g;
+
+        //nome
+        if(nomeC.search(regex)!=-1){
+            alert("! Campo* [Nome] não aceita caracteres especiais e nem espaços !");
+            return;
+        }  
+        if (nomeC.length <5 || nomeC=="") {
+            alert("! Campo* [Nome] com menos de [4 caracteres] !");
+            return;
+        }
+        //Usuário
+        if(usuarioC.search(regex)!=-1){
+            alert("! Campo* [Usuario] não aceita caracteres especiais e nem espaços !");
+            return;
+        }  
+        if (usuarioC.length <2 || usuarioC=="") {
+            alert("! Campo* [Usuario] com menos de [2 caracteres] !");
+            return;
+        }
+        //Senha
+        if(senhaC.search(regex)!=-1){
+            alert("! Campo [Senha] não aceita caracteres especiais e nem espaços !");
+            return;
+        } 
+        if(senhaC.length <5 || senhaC==""){
+            alert("! Campo* [Senha] com menos de [4 caracteres] !");
+            return;
+        }
+        //ajax
+        $.post("retrieve_index.php", {nomeC: nomeC, usuarioC: usuarioC, senhaC: senhaC} ,function( data ) {
+        if (data.length){
+            alert(data);
+            return false;
+        }
+        window.location = "index.php"
+        });
+    } 
+</script>
+
+
+
+
+
+

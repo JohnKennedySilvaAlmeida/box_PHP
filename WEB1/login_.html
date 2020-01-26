@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"></script> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+			crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>            
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" 
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" 
+            crossorigin="anonymous"></script>
+                    
+	<title>T</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+  <script>
+			var prevScrollpos = window.pageYOffset;
+			window.onscroll = function () {
+					var currentScrollPos = window.pageYOffset;
+					if (prevScrollpos > currentScrollPos) {
+							document.getElementById("navbar").style.top = "0";
+					} else {
+							document.getElementById("navbar").style.top = "-80px";
+					}
+					prevScrollpos = currentScrollPos;
+			} 
+	</script>
+
+</head>	
+
+
+<body style="background: black;" >
+<!-- naver bar  -->
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<!--<a class="navbar-brand" href="#">Navbar</a>-->
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="index_.html">Bem Vindo<span class="sr-only">(current)</span></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+<!-- formulario -->
+  <br><br>
+	<!-- <form class="container" action="login.php" method="POST"> -->
+    <h5 class="text-center">Login</h5>
+
+    <div class="form-group container">
+        <label for="usuario">Usuario</label>
+        <input type="text" class="form-control" id="usuario1" name="usuario" aria-describedby="usuhellp" required
+            placeholder =" Minimo 2 caracteres">>
+        <!-- <small id="usuario" class="form-text text-muted"></small> -->
+    </div>
+        <div class="form-group container">
+        <label for="exampleInputPassword1">Senha</label>
+        <input type="password" class="form-control" id="senha1" name="senha" required
+            placeholder =" Minimo 5 caracteres">>
+    </div>
+    <div class="container">
+        <button type="submit" id="btnLogin" class="btn btn-dark" onclick="validarLogin()">Login</button>
+        <a href="cadastro_.html" class="btn btn-dark">
+            <span class="glyphicon glyphicon-remove"></span>Cadastrar ? 
+        </a>
+    </div>
+
+	<!-- </form> -->
+
+    <marquee scrollDelay=150><font color=#00FF7F>!!! Por favor, Preencher todos os campos !!!</em></font></marquee>
+    
+    <!-- rodape -->
+    <br><br><br><br> 
+	<div class="card text-center">
+		<div class="card-body">
+			<h4 class="card-title">Jk_System</h4>
+			<!--<a href="#" class="btn btn-primary">Go somewhere</a>-->
+		</div>
+	</div>
+
+</body>
+
+</html>
+
+
+<script> // js / jquey / ajax
+    function validarLogin(){
+        var usuario = $('#usuario1').val();
+        //document.querySelector('#UserLogin').value...  javascrip - puro 
+        var senha   = $('#senha1').val();
+
+        var regex   = /[^\w\s]/g;
+
+        //Usuário
+        if(usuario.search(regex)!=-1){
+            alert("! Campo* [Usuario] não aceita caracteres especiais e nem espaços !");
+            return;
+        }  
+        if (usuario.length <2 || usuario=="") {
+            alert("! Campo* [Usuario] com menos de [2 caracteres] !");
+            return;
+        }
+        //Senha
+        if(senha.search(regex)!=-1){
+            alert("! Campo [Senha] não aceita caracteres especiais e nem espaços !");
+            return;
+        } 
+        if(senha.length <5 || senha==""){
+            alert("! Campo* [Senha] com menos de [4 caracteres] !");
+            return;
+        }
+        //ajax
+        $.post("retrieve_index.php", {usuario :usuario, senha: senha} ,function( data ) {
+
+            if (data.length){
+                alert(data);
+                return false;
+            }
+        window.location = "index.php"
+
+        });
+    } 
+</script>
+
+
+
+
